@@ -1,0 +1,184 @@
+Report for Institution Code FMNH, Resource fm_birds_eggs
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 86
+Number of records retrieved in searches: 587
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Austria ; Times: 1
+	Country: Brazil ; Times: 6
+	Country: India ; Times: 3
+	Country: United Kingdom ; Times: 9
+	Country: United States ; Times: 67
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 3
+	Date: 2015-07-03 ; Times: 1
+	Date: 2015-07-07 ; Times: 3
+	Date: 2015-07-09 ; Times: 5
+	Date: 2015-07-10 ; Times: 1
+	Date: 2015-07-11 ; Times: 3
+	Date: 2015-07-12 ; Times: 1
+	Date: 2015-07-14 ; Times: 6
+	Date: 2015-07-15 ; Times: 1
+	Date: 2015-07-17 ; Times: 3
+	Date: 2015-07-18 ; Times: 2
+	Date: 2015-07-22 ; Times: 3
+	Date: 2015-07-23 ; Times: 12
+	Date: 2015-07-25 ; Times: 11
+	Date: 2015-07-26 ; Times: 9
+	Date: 2015-07-27 ; Times: 2
+	Date: 2015-07-28 ; Times: 3
+	Date: 2015-07-29 ; Times: 8
+	Date: 2015-07-31 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "country:"denmark" class:aves year >= 1885 year <= 1890" ; Times: 1
+	Query: "catalognumber:2512" ; Times: 1
+	Query: ""Anser albifrons" stateprovince:"Alaska"" ; Times: 1
+	Query: "Nothura boraquira" ; Times: 1
+	Query: "18406 institutioncode:FMNH" ; Times: 2
+	Query: "Vanellus chilensis" ; Times: 2
+	Query: "Eudromia formosa type:specimen" ; Times: 1
+	Query: "paradisaea rudolphi" ; Times: 1
+	Query: "Branta hutchinsii type:specimen" ; Times: 1
+	Query: "Phoenicopterus roseus type:specimen" ; Times: 1
+	Query: "Syrmaticus ellioti type:specimen" ; Times: 1
+	Query: "catalognumber:21655" ; Times: 1
+	Query: "county:"Fairfield" stateprovince:"South Carolina" class:Aves" ; Times: 1
+	Query: ""Anser albifrons" country:"Canada"" ; Times: 2
+	Query: "14470" ; Times: 1
+	Query: "aves Georgia 9150" ; Times: 2
+	Query: "Prunella montanella" ; Times: 1
+	Query: "county:"Sonoma" stateprovince:"California" specificepithet:alpestris genus:eremophila" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 9
+	Query: "aves Georgia 11367" ; Times: 1
+	Query: "Tinamus osgoodi type:specimen" ; Times: 1
+	Query: "aepyornis" ; Times: 1
+	Query: "county:"Anderson" stateprovince:"South Carolina" class:Aves" ; Times: 1
+	Query: "Chlamydotis macqueenii type:specimen" ; Times: 1
+	Query: "otis tarda" ; Times: 1
+	Query: "podiceps cristatus" ; Times: 1
+	Query: "Apus pallidus" ; Times: 1
+	Query: "strix nebulosa lapland" ; Times: 1
+	Query: "14280 type:specimen" ; Times: 1
+	Query: "18407 institutioncode:FMNH" ; Times: 2
+	Query: ""cygnus buccinator" year <= 1892" ; Times: 1
+	Query: "stateprovince:"arizona" specificepithet:stelleri genus:cyanocitta" ; Times: 2
+	Query: "Passer moabiticus" ; Times: 1
+	Query: "crypturellus brevirostris" ; Times: 1
+	Query: "aves Georgia 12496" ; Times: 1
+	Query: "aythya nyroca" ; Times: 1
+	Query: "18409 institutioncode:FMNH" ; Times: 1
+	Query: "Chlamydotis undulata" ; Times: 1
+	Query: "18403 institutioncode:FMNH" ; Times: 2
+	Query: "FMNH 21478" ; Times: 2
+	Query: "Megapodius pritchardii type:specimen" ; Times: 1
+	Query: "institutioncode:FMNH" ; Times: 1
+	Query: "Eudyptes moseleyi type:specimen" ; Times: 1
+	Query: "county:"Edgefield" stateprovince:"South Carolina" class:Aves" ; Times: 1
+	Query: "marmaronetta angustirostris" ; Times: 1
+	Query: "aves Georgia 11624" ; Times: 1
+	Query: "country:"china" specificepithet:flavirostris genus:acanthis" ; Times: 1
+	Query: ""Falconiformes" stateprovince:"Texas" class:aves institutioncode:FMNH year >= 1800 year <= 2015" ; Times: 3
+	Query: "crypturellus bartletti" ; Times: 1
+	Query: "hieraaetus pennatus" ; Times: 11
+	Query: ""Tympanuchus cupido cupido"" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Poecile OR Parus institutioncode:UMMZ OR FMNH" ; Times: 1
+	Query: "candicans" ; Times: 1
+	Query: "aves Georgia 11625" ; Times: 1
+	Query: "stateprovince:"Texas" class:aves institutioncode:FMNH year >= 1800 year <= 2015" ; Times: 1
+	Query: "aves Georgia 11627" ; Times: 1
+	Query: "sterna dougallii" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 1084 download events in this period)
+Total number of records downloaded: 3176 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 2507
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Dominican Republic ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Puerto Rico ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 19
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 2
+	Date: 2015-07-02 ; Times: 1
+	Date: 2015-07-03 ; Times: 1
+	Date: 2015-07-06 ; Times: 3
+	Date: 2015-07-08 ; Times: 1
+	Date: 2015-07-09 ; Times: 5
+	Date: 2015-07-14 ; Times: 3
+	Date: 2015-07-15 ; Times: 2
+	Date: 2015-07-16 ; Times: 2
+	Date: 2015-07-18 ; Times: 1
+	Date: 2015-07-19 ; Times: 1
+	Date: 2015-07-20 ; Times: 1
+	Date: 2015-07-21 ; Times: 1
+	Date: 2015-07-22 ; Times: 3
+	Date: 2015-07-24 ; Times: 1
+	Date: 2015-07-28 ; Times: 3
+	Date: 2015-07-29 ; Times: 1
+	Date: 2015-07-30 ; Times: 1
+	Date: 2015-07-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "agelaius tricolor" ; Times: 1
+	Query: "Cyanocorax yncas" ; Times: 1
+	Query: "Arkansas" ; Times: 2
+	Query: ""Anser albifrons" country:"Canada"" ; Times: 1
+	Query: "country:"Mexico" class:Aves" ; Times: 1
+	Query: "specificepithet:iliaca genus:Passerella OR Zonotrichia institutioncode:UMMZ OR FMNH" ; Times: 1
+	Query: "colibri thalassinus" ; Times: 2
+	Query: "Cardinalis cardinalis specificepithet:cardinalis genus:Cardinalis class:Aves" ; Times: 1
+	Query: "aepyornis" ; Times: 2
+	Query: "Oceanodroma homochroa" ; Times: 1
+	Query: "Selasphorus platycercus" ; Times: 1
+	Query: "san luis potosi" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "utah" ; Times: 1
+	Query: "Dendroica kirtlandii type:specimen" ; Times: 1
+	Query: "country:"Puerto Rico"" ; Times: 1
+	Query: "county:"Wasatch" stateprovince:"Utah"" ; Times: 1
+	Query: "Numenius phaeopus" ; Times: 2
+	Query: "county:"Sonoma" stateprovince:"California" specificepithet:alpestris genus:eremophila" ; Times: 1
+	Query: "stateprovince:"arizona" specificepithet:stelleri genus:cyanocitta" ; Times: 1
+	Query: "chordata country:"dominican Republic"" ; Times: 1
+	Query: "county:"Utah" stateprovince:"Utah"" ; Times: 1
+	Query: "Streptoprocne" ; Times: 1
+	Query: "Cardinalis cardinalis" ; Times: 1
+	Query: "Falco femoralis" ; Times: 1
+	Query: ""Falconiformes" stateprovince:"Texas" class:aves institutioncode:FMNH year >= 1800 year <= 2015" ; Times: 1
+	Query: "jalisco" ; Times: 1
+	Query: ""Tympanuchus cupido cupido"" ; Times: 2
+	Query: "specificepithet:hudsonicus genus:Poecile OR Parus institutioncode:UMMZ OR FMNH" ; Times: 1
+	Query: "stateprovince:"Texas" class:aves institutioncode:FMNH year >= 1800 year <= 2015" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 314
+Total number of records retrieved from searches: 1698
+Number of download events that retrieved data from the resource: 152
+Total number of records downloaded: 12080
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 314
+Total number of records retrieved from searches: 1698
+Number of download events that retrieved data from the resource: 152
+Total number of records downloaded: 12080
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
