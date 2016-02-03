@@ -1,0 +1,132 @@
+Report for Institution Code FMNH, Resource fm_birds_eggs
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 61
+Number of records retrieved in searches: 137
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: Brazil ; Times: 9
+	Country: Portugal ; Times: 1
+	Country: India ; Times: 2
+	Country: United States ; Times: 40
+	Country: Germany ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-09 ; Times: 2
+	Date: 2015-12-08 ; Times: 4
+	Date: 2015-12-12 ; Times: 4
+	Date: 2015-12-15 ; Times: 3
+	Date: 2015-12-03 ; Times: 1
+	Date: 2015-12-02 ; Times: 14
+	Date: 2015-12-01 ; Times: 1
+	Date: 2015-12-07 ; Times: 3
+	Date: 2015-12-06 ; Times: 2
+	Date: 2015-12-04 ; Times: 3
+	Date: 2015-12-14 ; Times: 2
+	Date: 2015-12-20 ; Times: 2
+	Date: 2015-12-23 ; Times: 2
+	Date: 2015-12-22 ; Times: 1
+	Date: 2015-12-25 ; Times: 1
+	Date: 2015-12-11 ; Times: 5
+	Date: 2015-12-17 ; Times: 4
+	Date: 2015-12-24 ; Times: 3
+	Date: 2015-12-16 ; Times: 1
+	Date: 2015-12-19 ; Times: 1
+	Date: 2015-12-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "wilsonia pusilla type:specimen (new brunswick) month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "&#34;Lanius ludovicianus anthonyi&#34; type:specimen (eggs)" ; Times: 1
+	Query: "FMNH 16013" ; Times: 1
+	Query: "genus:Thraupis class:Aves stateprovince:&#34;mato grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:20769 institutioncode:FMNH" ; Times: 1
+	Query: "gyps fulvus" ; Times: 2
+	Query: "Buteo swainsoni (los angeles county )" ; Times: 1
+	Query: "catreus wallichii" ; Times: 3
+	Query: "erythrogaster maryland" ; Times: 2
+	Query: "pyrrhocorax graculus" ; Times: 8
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "Buteo swainsoni (los angeles county)" ; Times: 1
+	Query: "Buteo jamaicensis (los angeles county ) year &gt;= 1890 year &lt;= 1900" ; Times: 1
+	Query: "type:specimen family:fURNARIIDAE class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34; institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 7323" ; Times: 1
+	Query: "canadensis tabida year &gt;= 1898 year &lt;= 1898" ; Times: 1
+	Query: "Lanius ludovicianus anthonyi" ; Times: 1
+	Query: "Scolopax rusticola" ; Times: 1
+	Query: "polioptila plumbea institutioncode:FMNH" ; Times: 2
+	Query: "sialia mexicana (california) year &gt;= 1908 year &lt;= 1909" ; Times: 1
+	Query: "Rallus elegans" ; Times: 1
+	Query: "type:specimen genus:eudromia class:Aves country:&#34;PARAGUAY&#34;" ; Times: 1
+	Query: "15921 institutioncode:FMNH" ; Times: 2
+	Query: "Catharus fuscescens stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "catalognumber:3293 institutioncode:FMNH" ; Times: 1
+	Query: "Pelecanus erythrorhynchos" ; Times: 3
+	Query: "Spheniscus demersus" ; Times: 1
+	Query: "type:specimen genus:ammodramus class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Larimer Anas" ; Times: 1
+	Query: "type:specimen specificepithet:humeralis class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Tryngites subruficollis" ; Times: 1
+	Query: "catalognumber:1017" ; Times: 1
+	Query: "Nothoprocta cinerascens" ; Times: 2
+	Query: "Lanius ludovicianus anthonyi year &gt;= 1897 year &lt;= 1898" ; Times: 1
+	Query: "institutioncode:FMNH" ; Times: 2
+	Query: "FMNH 10281" ; Times: 1
+	Query: "FMNH 10283" ; Times: 1
+	Query: "Himantopus mexicanus (california) year &gt;= 1897 year &lt;= 1900" ; Times: 1
+	Query: "type:specimen genus:Nothoprocta class:Aves country:&#34;PARAGUAY&#34;" ; Times: 1
+	Query: "sialia mexicana year &gt;= 1908 year &lt;= 1909" ; Times: 1
+	Query: "catalognumber:20770 institutioncode:FMNH" ; Times: 2
+	Query: "Pyrrhocorax graculus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 889 download events in this period)
+Total number of records downloaded: 581
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Uruguay ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 3
+	Country: United States ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-08 ; Times: 1
+	Date: 2015-12-02 ; Times: 4
+	Date: 2015-12-01 ; Times: 1
+	Date: 2015-12-07 ; Times: 1
+	Date: 2015-12-05 ; Times: 2
+	Date: 2015-12-04 ; Times: 2
+	Date: 2015-12-31 ; Times: 4
+	Date: 2015-12-11 ; Times: 4
+	Date: 2015-12-29 ; Times: 1
+	Date: 2015-12-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "alauda" ; Times: 1
+	Query: "caribou continent:North America" ; Times: 1
+	Query: "wilsonia pusilla type:specimen (california) year &lt;= 1979 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Troglodytes" ; Times: 1
+	Query: "Cuba" ; Times: 1
+	Query: "pelecanus erythrorhynchos" ; Times: 1
+	Query: "Ammodramus caudacutus" ; Times: 1
+	Query: "Archilochus alexandri type:specimen" ; Times: 1
+	Query: "Empidonax difficilis" ; Times: 1
+	Query: "Calypte anna type:specimen" ; Times: 1
+	Query: "Pueblo Colorado Aves" ; Times: 1
+	Query: "gyps fulvus" ; Times: 3
+	Query: "sturnella neglecta" ; Times: 1
+	Query: "larimer aves" ; Times: 1
+	Query: "Calcarius mccownii" ; Times: 1
+	Query: "passer domesticus" ; Times: 1
+	Query: "Archilochus colubris type:specimen" ; Times: 2
+	Query: "quintana roo" ; Times: 1
+
+
+End of report.
