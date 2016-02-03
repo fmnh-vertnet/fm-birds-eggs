@@ -1,0 +1,160 @@
+Report for Institution Code FMNH, Resource fm_birds_eggs
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 59
+Number of records retrieved in searches: 352
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 3
+	Country: Mexico ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 49
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-10 ; Times: 4
+	Date: 2015-09-16 ; Times: 1
+	Date: 2015-09-30 ; Times: 1
+	Date: 2015-09-03 ; Times: 1
+	Date: 2015-09-28 ; Times: 4
+	Date: 2015-09-22 ; Times: 6
+	Date: 2015-09-07 ; Times: 2
+	Date: 2015-09-25 ; Times: 3
+	Date: 2015-09-05 ; Times: 2
+	Date: 2015-09-04 ; Times: 1
+	Date: 2015-09-14 ; Times: 1
+	Date: 2015-09-15 ; Times: 1
+	Date: 2015-09-01 ; Times: 2
+	Date: 2015-09-17 ; Times: 2
+	Date: 2015-09-18 ; Times: 1
+	Date: 2015-09-29 ; Times: 1
+	Date: 2015-09-08 ; Times: 6
+	Date: 2015-09-26 ; Times: 2
+	Date: 2015-09-20 ; Times: 10
+	Date: 2015-09-09 ; Times: 1
+	Date: 2015-09-02 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "pavo muticus" ; Times: 1
+	Query: "catalognumber:2227 institutioncode:fmnh" ; Times: 1
+	Query: "Pinguinus impennis type:specimen" ; Times: 2
+	Query: "ammodramus savannarum institutioncode:FMNH" ; Times: 2
+	Query: "catalognumber:12073" ; Times: 1
+	Query: "type:specimen genus:Scotocerca" ; Times: 1
+	Query: "country:&#34;russia&#34; (Charadriiformes) year &gt;= 1903 year &lt;= 1903" ; Times: 1
+	Query: "Mississippi Aves Oktibbeha" ; Times: 1
+	Query: "sturnella magna type:specimen institutioncode:FMNH" ; Times: 1
+	Query: "magna type:specimen institutioncode:FMNH" ; Times: 1
+	Query: "acrocephalus melanopogon" ; Times: 1
+	Query: "catreus wallichii" ; Times: 1
+	Query: "type:specimen genus:Macrocephalon" ; Times: 1
+	Query: "Mississippi Aves Lowndes" ; Times: 1
+	Query: "acrocephalus arundinaceus" ; Times: 2
+	Query: "emberiza melanocephala" ; Times: 1
+	Query: "emberiza bruniceps" ; Times: 2
+	Query: "class:aves country:&#34;russia&#34; year &gt;= 1903 year &lt;= 1903" ; Times: 2
+	Query: "specificepithet:pubescens county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 8
+	Query: "Paradisaea rudolphi" ; Times: 2
+	Query: "Neophron" ; Times: 1
+	Query: "Cardinalis cardinalis type:specimen institutioncode:FMNH" ; Times: 1
+	Query: "emberiza schoeniclus" ; Times: 1
+	Query: "sagittarius" ; Times: 1
+	Query: "acrocephalus orientalis" ; Times: 2
+	Query: "FMNH 1539" ; Times: 2
+	Query: "catalognumber:22047 institutioncode:fmnh" ; Times: 1
+	Query: "picoides leucotos" ; Times: 2
+	Query: "catalognumber:5861" ; Times: 1
+	Query: "acrocephalus palustris" ; Times: 1
+	Query: "institutioncode:fmnh" ; Times: 3
+	Query: "catalognumber:6141" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonicus genus:Poecile OR Parus institutioncode:UMMZ OR FMNH" ; Times: 1
+	Query: "type:specimen catalognumber:19612" ; Times: 1
+	Query: "county:&#34;eddy&#34; stateprovince:&#34;north dakota&#34; AND (NOT UMMZ)" ; Times: 1
+	Query: "emberiza striolata" ; Times: 1
+	Query: "emberiza hortulana" ; Times: 1
+	Query: "polyplectron bicalcaratum" ; Times: 1
+	Query: "institutioncode:FMNH" ; Times: 1
+	Query: "type:specimen specificepithet:cardinalis genus:Cardinalis institutioncode:FMNH" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 44 (out of 1045 download events in this period)
+Total number of records downloaded: 1751
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 5
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 2
+	Country: Venezuela ; Times: 1
+	Country: France ; Times: 6
+	Country: United States ; Times: 19
+	Country: Colombia ; Times: 3
+	Country: Hong Kong ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-01 ; Times: 8
+	Date: 2015-09-19 ; Times: 4
+	Date: 2015-09-07 ; Times: 1
+	Date: 2015-09-18 ; Times: 2
+	Date: 2015-09-05 ; Times: 2
+	Date: 2015-09-04 ; Times: 1
+	Date: 2015-09-14 ; Times: 1
+	Date: 2015-09-02 ; Times: 2
+	Date: 2015-09-16 ; Times: 5
+	Date: 2015-09-17 ; Times: 2
+	Date: 2015-09-25 ; Times: 1
+	Date: 2015-09-24 ; Times: 4
+	Date: 2015-09-22 ; Times: 7
+	Date: 2015-09-09 ; Times: 1
+	Date: 2015-09-30 ; Times: 2
+	Date: 2015-09-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gavia" ; Times: 1
+	Query: "Spizella pallida" ; Times: 1
+	Query: "country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "aimophila aestivalis type:specimen" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "geothlypis trichas" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "sturnella magna type:specimen institutioncode:FMNH" ; Times: 1
+	Query: "ammodramus savannarum institutioncode:FMNH" ; Times: 1
+	Query: "type:specimen genus:Macrocephalon" ; Times: 1
+	Query: "Eremophila alpestris" ; Times: 1
+	Query: "class:aves year&gt;=1976 year&lt;=1986" ; Times: 2
+	Query: "sinaloa" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 2
+	Query: "Cairina moschata" ; Times: 1
+	Query: "genus:Picoides" ; Times: 2
+	Query: "type:specimen specificepithet:stelleri genus:Cyanocitta collectioncode:UMMZ OR FMNH OR MVZ OR CAS" ; Times: 1
+	Query: "Paradisaea rudolphi" ; Times: 2
+	Query: "peru" ; Times: 1
+	Query: "turdus fuscater" ; Times: 1
+	Query: "Sporophila" ; Times: 1
+	Query: "type:specimen specificepithet:ruber genus:Sphyrapicus" ; Times: 1
+	Query: "New Guinea" ; Times: 2
+	Query: "Gavia" ; Times: 1
+	Query: "Mississippi Aves" ; Times: 1
+	Query: "institutioncode:FMNH" ; Times: 1
+	Query: "empidonax flaviventris" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonicus genus:Poecile OR Parus institutioncode:UMMZ OR FMNH" ; Times: 1
+	Query: "genus:Spizella" ; Times: 1
+	Query: "birds chihuahua" ; Times: 1
+	Query: "Phasianus colchicus" ; Times: 3
+	Query: "phalacrocoracidae" ; Times: 1
+	Query: "Spizella breweri" ; Times: 1
+	Query: "specificepithet:albicollis genus:Zonotrichia collectioncode:UMMZ OR FMNH OR MVZ OR CAS" ; Times: 1
+	Query: "aves venezuela" ; Times: 1
+	Query: "year:1859" ; Times: 1
+
+
+End of report.
