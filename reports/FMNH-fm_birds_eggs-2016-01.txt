@@ -1,0 +1,111 @@
+Report for Institution Code FMNH, Resource fm_birds_eggs
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 38
+Number of records retrieved in searches: 97
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 4
+	Country: Unknown ; Times: 2
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 29
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-22 ; Times: 2
+	Date: 2016-01-05 ; Times: 3
+	Date: 2016-01-06 ; Times: 3
+	Date: 2016-01-07 ; Times: 1
+	Date: 2016-01-27 ; Times: 1
+	Date: 2016-01-25 ; Times: 2
+	Date: 2016-01-29 ; Times: 1
+	Date: 2016-01-08 ; Times: 5
+	Date: 2016-01-09 ; Times: 1
+	Date: 2016-01-19 ; Times: 1
+	Date: 2016-01-30 ; Times: 5
+	Date: 2016-01-13 ; Times: 1
+	Date: 2016-01-12 ; Times: 2
+	Date: 2016-01-11 ; Times: 8
+	Date: 2016-01-17 ; Times: 1
+	Date: 2016-01-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:aves stateprovince:&#34;Oklahoma&#34; year &gt;= 1901 year &lt;= 1901" ; Times: 2
+	Query: "genus:Rhea class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "fmnh 4078" ; Times: 1
+	Query: "fmnh 4118" ; Times: 1
+	Query: "marion missouri" ; Times: 1
+	Query: "junco Minnesota" ; Times: 1
+	Query: "genus:Junco stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "Oceanodroma homochroa 1895" ; Times: 1
+	Query: "Tetrax tetrax" ; Times: 1
+	Query: "Accipiter Arizona" ; Times: 2
+	Query: "fmnh 4117" ; Times: 1
+	Query: "Oceanodroma homochroa 1896" ; Times: 1
+	Query: "Gavia immer year &gt;= 1905 year &lt;= 1905" ; Times: 1
+	Query: "fmnh 4077" ; Times: 1
+	Query: "terpsiphone paradisi india" ; Times: 1
+	Query: "type:specimen institutioncode:FMNH" ; Times: 1
+	Query: "aves (costa rica) institutioncode:FMNH" ; Times: 1
+	Query: "polioptila plumbea institutioncode:FMNH" ; Times: 1
+	Query: "Oceanodroma homochroa 1913" ; Times: 1
+	Query: "fmnh 1424" ; Times: 1
+	Query: "tyto alba institutioncode:FMNH" ; Times: 1
+	Query: "Falco naumanni" ; Times: 1
+	Query: "cardinalis cardinalis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "oriolus kundoo india" ; Times: 1
+	Query: "wilsonia pusilla (alaska) month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Oklahoma&#34; year &gt;= 1901 year &lt;= 1901" ; Times: 1
+	Query: "FMNH 14478" ; Times: 1
+	Query: "institutioncode:FMNH" ; Times: 1
+	Query: "Psaltriparus minimus melanurus" ; Times: 1
+	Query: "Oceanodroma homochroa 1886" ; Times: 1
+	Query: "charadrius county:&#34;humboldt&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "oriolus kundoo" ; Times: 3
+	Query: "catalognumber:19277 institutioncode:FMNH" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Oklahoma&#34; year &gt;= 1898 year &lt;= 1900" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 507 download events in this period)
+Total number of records downloaded: 728
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Netherlands ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-22 ; Times: 4
+	Date: 2016-01-05 ; Times: 3
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-21 ; Times: 1
+	Date: 2016-01-01 ; Times: 3
+	Date: 2016-01-02 ; Times: 1
+	Date: 2016-01-29 ; Times: 1
+	Date: 2016-01-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "county:&#34;Cook&#34; stateprovince:&#34;Illinois&#34; institutioncode:FMNH" ; Times: 1
+	Query: "charadrius nivosus" ; Times: 1
+	Query: "himatione" ; Times: 1
+	Query: "aechmophorus" ; Times: 1
+	Query: "&#34;Zonotrichia capensis&#34;" ; Times: 1
+	Query: "wilsonia pusilla month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "junco Minnesota" ; Times: 1
+	Query: "&#34;Coeligena torquata&#34;" ; Times: 1
+	Query: "charadrius alexandrinus" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "genus:Junco stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "&#34;Contopus fumigatus&#34;" ; Times: 1
+	Query: "Coeligena coeligena" ; Times: 1
+	Query: "Turnix" ; Times: 1
+	Query: "type:specimen (crypturellus)" ; Times: 1
+
+
+End of report.
