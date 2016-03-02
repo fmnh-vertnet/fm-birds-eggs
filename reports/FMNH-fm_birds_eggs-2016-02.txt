@@ -1,0 +1,114 @@
+Report for Institution Code FMNH, Resource fm_birds_eggs
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 36
+Number of records retrieved in searches: 130
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 24
+	Country: United Kingdom ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Netherlands ; Times: 4
+	Country: Germany ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-23 ; Times: 3
+	Date: 2016-02-02 ; Times: 3
+	Date: 2016-02-06 ; Times: 4
+	Date: 2016-02-05 ; Times: 3
+	Date: 2016-02-09 ; Times: 1
+	Date: 2016-02-22 ; Times: 1
+	Date: 2016-02-26 ; Times: 1
+	Date: 2016-02-24 ; Times: 2
+	Date: 2016-02-12 ; Times: 2
+	Date: 2016-02-11 ; Times: 1
+	Date: 2016-02-16 ; Times: 11
+	Date: 2016-02-04 ; Times: 3
+	Date: 2016-02-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Mammoth Cave stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "terpsiphone paradisi-india" ; Times: 1
+	Query: "gyps" ; Times: 1
+	Query: "Recurvirostra andina" ; Times: 1
+	Query: "FMNH 21952" ; Times: 1
+	Query: "Tachybaptus ruficollis institutioncode:FMNH" ; Times: 1
+	Query: "Caprimulgus year &gt;= 1905 year &lt;= 1905" ; Times: 1
+	Query: "podilymbus institutioncode:FMNH" ; Times: 1
+	Query: "laterallus jamaicensis" ; Times: 2
+	Query: "FMNH 8157" ; Times: 1
+	Query: "specificepithet:chrysaetos genus:aquila county:&#34;san luis obispo&#34; year &gt;= 1908 year &lt;= 1908" ; Times: 1
+	Query: "neophron" ; Times: 1
+	Query: "locality:campbellville stateprovince:&#34;manitoba&#34;" ; Times: 1
+	Query: "rhynchotus rufescens eggs" ; Times: 1
+	Query: "15199 (FMNH)" ; Times: 1
+	Query: "Aegypius monachus" ; Times: 3
+	Query: "specificepithet:alexandrinus genus:Charadrius county:&#34;Humboldt&#34;" ; Times: 1
+	Query: "specificepithet:chrysaetos genus:aquila year &gt;= 1908 year &lt;= 1908" ; Times: 1
+	Query: "cyanopica cooki" ; Times: 9
+	Query: "institutioncode:FMNH" ; Times: 4
+	Query: "Phoenicopterus ruber institutioncode:FMNH" ; Times: 1
+	Query: "charadrius type:specimen county:&#34;Humboldt&#34; (nivosus alexandrinus)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 512 download events in this period)
+Total number of records downloaded: 2577
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 19
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-02 ; Times: 1
+	Date: 2016-02-04 ; Times: 2
+	Date: 2016-02-23 ; Times: 3
+	Date: 2016-02-08 ; Times: 3
+	Date: 2016-02-18 ; Times: 1
+	Date: 2016-02-19 ; Times: 1
+	Date: 2016-02-26 ; Times: 6
+	Date: 2016-02-25 ; Times: 1
+	Date: 2016-02-01 ; Times: 1
+	Date: 2016-02-03 ; Times: 1
+	Date: 2016-02-11 ; Times: 1
+	Date: 2016-02-05 ; Times: 1
+	Date: 2016-02-29 ; Times: 4
+	Date: 2016-02-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Geospiza" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1901 year &lt;= 1920" ; Times: 2
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1931 year &lt;= 1931" ; Times: 1
+	Query: "class:Aves county:&#34;Monroe&#34; stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1924 year &lt;= 1925" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1871 year &lt;= 1880" ; Times: 1
+	Query: "vireo olivaceus type:specimen" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Yukon&#34; country:&#34;Canada&#34; year &gt;= 1900 year &lt;= 1950" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1906 year &lt;= 1910" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1926 year &lt;= 1928" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "aepyornis" ; Times: 1
+	Query: "vireo olivaceus" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1929 year &lt;= 1930" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Ontario&#34; year &lt;= 1970" ; Times: 1
+	Query: "selasphorus (sasin OR sedentarius)" ; Times: 1
+	Query: "Aegypius monachus" ; Times: 1
+	Query: "genus:carpodacus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1896 year &lt;= 1900" ; Times: 1
+	Query: "Strigidae" ; Times: 1
+	Query: "county:&#34;Graham&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "charadrius type:specimen county:&#34;Humboldt&#34; (nivosus alexandrinus)" ; Times: 1
+	Query: "norte de santander" ; Times: 1
+
+
+End of report.
