@@ -1,0 +1,69 @@
+Report for Institution Code FMNH, Resource fm_birds_eggs
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 11
+Number of records retrieved in searches: 33
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Turkey ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-18 ; Times: 1
+	Date: 2016-05-25 ; Times: 1
+	Date: 2016-05-31 ; Times: 5
+	Date: 2016-05-30 ; Times: 1
+	Date: 2016-05-22 ; Times: 1
+	Date: 2016-05-28 ; Times: 1
+	Date: 2016-05-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:LUDOVICIANUS genus:LANIUS class:aves stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "genus:lanius class:aves stateprovince:&#34;michigan&#34; year &gt;= 1898 year &lt;= 1898" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 1
+	Query: "catalognumber:100 institutioncode:FMNH" ; Times: 2
+	Query: "genus:lanius class:aves stateprovince:&#34;michigan&#34; year &gt;= 1895 year &lt;= 1895" ; Times: 1
+	Query: "Parabuteo unicinctus Mexico" ; Times: 1
+	Query: "collectioncode:birds institutioncode:FMNH" ; Times: 1
+	Query: "genus:cistothorus class:aves stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "mogador fringilla" ; Times: 1
+	Query: "netta rufina" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 327 download events in this period)
+Total number of records downloaded: 303
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: China ; Times: 2
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 1
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-25 ; Times: 2
+	Date: 2016-05-31 ; Times: 1
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Chamaea" ; Times: 1
+	Query: "Texas Brewster type:specimen class:Aves" ; Times: 1
+	Query: "vermivora" ; Times: 1
+	Query: "Timaliidae" ; Times: 1
+	Query: "Parabuteo unicinctus Mexico" ; Times: 2
+	Query: "calypte anna" ; Times: 1
+	Query: "netta rufina" ; Times: 1
+
+
+End of report.
