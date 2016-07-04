@@ -1,0 +1,148 @@
+Report for Institution Code FMNH, Resource fm_birds_eggs
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 59
+Number of records retrieved in searches: 209
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Honduras ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: United States ; Times: 47
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-24 ; Times: 2
+	Date: 2016-06-09 ; Times: 2
+	Date: 2016-06-22 ; Times: 4
+	Date: 2016-06-20 ; Times: 1
+	Date: 2016-06-16 ; Times: 8
+	Date: 2016-06-04 ; Times: 1
+	Date: 2016-06-14 ; Times: 9
+	Date: 2016-06-15 ; Times: 2
+	Date: 2016-06-01 ; Times: 2
+	Date: 2016-06-13 ; Times: 2
+	Date: 2016-06-03 ; Times: 6
+	Date: 2016-06-02 ; Times: 9
+	Date: 2016-06-19 ; Times: 1
+	Date: 2016-06-10 ; Times: 1
+	Date: 2016-06-12 ; Times: 2
+	Date: 2016-06-17 ; Times: 2
+	Date: 2016-06-23 ; Times: 1
+	Date: 2016-06-11 ; Times: 3
+	Date: 2016-06-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:ludovicianus genus:lanius stateprovince:&#34;michigan&#34; year &gt;= 1895 year &lt;= 1895" ; Times: 1
+	Query: "Lunda cirrhata British Columbia" ; Times: 1
+	Query: "Anhima cornuta" ; Times: 1
+	Query: "dendroica magnolia type:specimen stateprovince:&#34;maine&#34; institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:lanius stateprovince:&#34;michigan&#34; year &gt;= 1902 year &lt;= 1902" ; Times: 1
+	Query: "fmnh 17069" ; Times: 1
+	Query: "FMNH 18490" ; Times: 2
+	Query: "fmnh 17073" ; Times: 2
+	Query: "buteo rufinus" ; Times: 2
+	Query: "FMNH 4612" ; Times: 1
+	Query: "11139" ; Times: 3
+	Query: "Montifringilla nivalis" ; Times: 2
+	Query: "catalognumber:16754" ; Times: 1
+	Query: "dendroica magnolia type:specimen stateprovince:&#34;Maine&#34; institutioncode:FMNH" ; Times: 1
+	Query: "Icterus auratus" ; Times: 2
+	Query: "fmnh 17067" ; Times: 1
+	Query: "catalognumber:7690" ; Times: 1
+	Query: "FMNH 7893" ; Times: 1
+	Query: "dendroica magnolia type:specimen stateprovince:&#34;New York&#34; institutioncode:FMNH" ; Times: 2
+	Query: "14352" ; Times: 1
+	Query: "16754" ; Times: 1
+	Query: "dendroica magnolia type:specimen AND (NOT Illinois) month &gt;= 6 month &lt;= 7 institutioncode:FMNH" ; Times: 2
+	Query: "18771" ; Times: 1
+	Query: "genus:lanius stateprovince:&#34;michigan&#34; year &gt;= 1898 year &lt;= 1898 institutioncode:FMNH" ; Times: 1
+	Query: "Aegypius monachus" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oklahoma&#34; institutioncode:FMNH" ; Times: 1
+	Query: "genus:lanius stateprovince:&#34;michigan&#34; year &gt;= 1898 year &lt;= 1898" ; Times: 1
+	Query: "fmnh 17072" ; Times: 2
+	Query: "14057 institutioncode:FMNH" ; Times: 1
+	Query: "fmnh 17070" ; Times: 2
+	Query: "FMNH AND 14208" ; Times: 1
+	Query: "genus:lanius stateprovince:&#34;michigan&#34; catalognumber:12384 institutioncode:FMNH" ; Times: 1
+	Query: "fmnh 6321" ; Times: 1
+	Query: "type:specimen genus:Phoenicopterus year &gt;= 1850 year &lt;= 1900" ; Times: 1
+	Query: "11899" ; Times: 1
+	Query: "dendroica magnolia type:specimen AND (NOT Illinois) month &gt;= 5 month &lt;= 6 institutioncode:FMNH" ; Times: 2
+	Query: "dendroica magnolia type:specimen country:&#34;canada&#34; AND (NOT Illinois) month &gt;= 5 month &lt;= 6 institutioncode:FMNH" ; Times: 1
+	Query: "buteo rufinus cirtensis" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:Lanius stateprovince:&#34;michigan&#34; year &gt;= 1895 year &lt;= 1895" ; Times: 1
+	Query: "Rallus longirostris country:&#34;belize&#34;" ; Times: 1
+	Query: "crax rubra" ; Times: 1
+	Query: "14072 institutioncode:FMNH" ; Times: 1
+	Query: "Strix occidentalis lucida" ; Times: 1
+	Query: "institutioncode:FMNH catalognumber:1727" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:lanius stateprovince:&#34;michigan&#34; year &gt;= 1894 year &lt;= 1894" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 1
+	Query: "parus songarus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 1052 download events in this period)
+Total number of records downloaded: 513
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Czech Republic ; Times: 1
+	Country: Mexico ; Times: 19
+	Country: United States ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-15 ; Times: 2
+	Date: 2016-06-23 ; Times: 1
+	Date: 2016-06-08 ; Times: 4
+	Date: 2016-06-21 ; Times: 3
+	Date: 2016-06-20 ; Times: 2
+	Date: 2016-06-05 ; Times: 4
+	Date: 2016-06-17 ; Times: 1
+	Date: 2016-06-14 ; Times: 3
+	Date: 2016-06-06 ; Times: 2
+	Date: 2016-06-13 ; Times: 1
+	Date: 2016-06-03 ; Times: 1
+	Date: 2016-06-11 ; Times: 1
+	Date: 2016-06-16 ; Times: 1
+	Date: 2016-06-04 ; Times: 1
+	Date: 2016-06-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Anhima cornuta" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 2
+	Query: "grus americana" ; Times: 3
+	Query: "birds norte de santander" ; Times: 1
+	Query: "Columba livia" ; Times: 1
+	Query: "aegolius Acadicus" ; Times: 1
+	Query: "Icterus auratus" ; Times: 1
+	Query: "norte de santander" ; Times: 1
+	Query: "aegolius funereus" ; Times: 2
+	Query: "Thraupis palmarum" ; Times: 1
+	Query: "columba livia" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "Aegypius monachus" ; Times: 1
+	Query: "trogon elegans" ; Times: 1
+	Query: "Syria" ; Times: 1
+	Query: "kyrgyzstan" ; Times: 1
+	Query: "laterallus" ; Times: 1
+	Query: "amazilia yucatanensis" ; Times: 1
+	Query: "type:specimen class:Aves stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "Wilsonia citrina" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 1
+
+
+End of report.
