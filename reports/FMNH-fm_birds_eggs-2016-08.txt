@@ -1,0 +1,123 @@
+Report for Institution Code FMNH, Resource fm_birds_eggs
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 49
+Number of records retrieved in searches: 288
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 39
+	Country: Brazil ; Times: 7
+	Country: Romania ; Times: 2
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-11 ; Times: 8
+	Date: 2016-08-12 ; Times: 2
+	Date: 2016-08-09 ; Times: 1
+	Date: 2016-08-14 ; Times: 1
+	Date: 2016-08-15 ; Times: 5
+	Date: 2016-08-16 ; Times: 4
+	Date: 2016-08-24 ; Times: 1
+	Date: 2016-08-27 ; Times: 2
+	Date: 2016-08-26 ; Times: 4
+	Date: 2016-08-21 ; Times: 2
+	Date: 2016-08-30 ; Times: 4
+	Date: 2016-08-22 ; Times: 6
+	Date: 2016-08-23 ; Times: 3
+	Date: 2016-08-31 ; Times: 4
+	Date: 2016-08-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:caerulea genus:Passerina stateprovince:&#34;Kansas&#34; year &gt;= 1800 year &lt;= 1920" ; Times: 1
+	Query: "&#34;dendroica cerulea&#34; stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "genus:struthio institutioncode:FMNH" ; Times: 1
+	Query: "Catalina AND Carpodacus NOT Arizona" ; Times: 1
+	Query: "type:specimen specificepithet:ani genus:CROTOPHAGA class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "salpinctes institutioncode:FMNH" ; Times: 1
+	Query: "type:specimen specificepithet:parvulus genus:caprimulgus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Catharus fuscescens salicicola month &gt;= 6 month &lt;= 7" ; Times: 2
+	Query: "Aepyornis" ; Times: 2
+	Query: "genus:Apteryx institutioncode:FMNH" ; Times: 1
+	Query: "gbifdatasetid:43e0bba3-9edb-4b00-b490-84924e55a222" ; Times: 1
+	Query: "&#34;vermivora chrysoptera&#34; stateprovince:&#34;virginia&#34;" ; Times: 2
+	Query: "meleagris gallopavo country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:caerulea genus:Passerina stateprovince:&#34;Kansas&#34; year &gt;= 1800 year &lt;= 1940" ; Times: 1
+	Query: "type:specimen specificepithet:talpacoti class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "FMNH 20757" ; Times: 1
+	Query: "Polyborus institutioncode:FMNH" ; Times: 2
+	Query: "colinus virginianus floridanus type:specimen year &gt;= 1880 year &lt;= 1900" ; Times: 1
+	Query: "Puffinus gravis institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:1726" ; Times: 1
+	Query: "type:specimen family:rheidae institutioncode:FMNH" ; Times: 1
+	Query: "class:aves stateprovince:&#34;New Mexico&#34; year &gt;= 1885 year &lt;= 1885" ; Times: 1
+	Query: "dendroica magnolia country:&#34;Canada&#34; month &gt;= 6 month &lt;= 8" ; Times: 2
+	Query: "class:aves stateprovince:&#34;New Mexico&#34; year &gt;= 1885 year &lt;= 1885 month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "FMNH 20756" ; Times: 1
+	Query: "Dendroica kirtlandii type:specimen" ; Times: 1
+	Query: "type:specimen genus:guira class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "genus:rhea institutioncode:FMNH" ; Times: 1
+	Query: "Momotus coeruliceps" ; Times: 6
+	Query: "oriolus kundoo india" ; Times: 1
+	Query: "Catharus fuscescens Arizona" ; Times: 1
+	Query: "institutioncode:FMNH" ; Times: 1
+	Query: "type:specimen specificepithet:parvulus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen collectioncode:birds institutioncode:FMNH" ; Times: 1
+	Query: "Mergus albellus" ; Times: 2
+	Query: "Ortalis vetula type:specimen institutioncode:FMNH" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 924 download events in this period)
+Total number of records downloaded: 1163
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Brazil ; Times: 1
+	Country: France ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-11 ; Times: 2
+	Date: 2016-08-12 ; Times: 1
+	Date: 2016-08-13 ; Times: 1
+	Date: 2016-08-29 ; Times: 1
+	Date: 2016-08-25 ; Times: 1
+	Date: 2016-08-19 ; Times: 1
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-26 ; Times: 2
+	Date: 2016-08-21 ; Times: 1
+	Date: 2016-08-09 ; Times: 1
+	Date: 2016-08-22 ; Times: 5
+	Date: 2016-08-18 ; Times: 1
+	Date: 2016-08-23 ; Times: 1
+	Date: 2016-08-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gavia" ; Times: 1
+	Query: "Colombia Aves" ; Times: 1
+	Query: "geospiza" ; Times: 1
+	Query: "lanius ludovicianus" ; Times: 1
+	Query: "stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "eudyptes" ; Times: 1
+	Query: "colinus virginianus floridanus type:specimen year &gt;= 1920 year &lt;= 1960" ; Times: 1
+	Query: "Agelaius tricolor" ; Times: 1
+	Query: "type:specimen specificepithet:jamaicensis genus:laterallus" ; Times: 1
+	Query: "chrysoparia" ; Times: 1
+	Query: "cistothorus platensis" ; Times: 1
+	Query: "specificepithet:domesticus genus:passer" ; Times: 1
+	Query: "colinus virginianus floridanus type:specimen year &gt;= 1880 year &lt;= 1920" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "Colombia Aves Santander" ; Times: 1
+	Query: "Apodidae" ; Times: 1
+	Query: "Vireo bellii pusillus" ; Times: 1
+	Query: "salpinctes institutioncode:FMNH" ; Times: 1
+	Query: "Polioptila californica californica" ; Times: 1
+
+
+End of report.
