@@ -1,0 +1,165 @@
+Report for Institution Code FMNH, Resource fm_birds_eggs
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 156
+Number of records retrieved in searches: 1675
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 102
+	Country: Madagascar ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 5
+	Country: Nepal ; Times: 4
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 16
+	Country: Sweden ; Times: 2
+	Country: Argentina ; Times: 21
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 8
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-19 ; Times: 2
+	Date: 2019-07-08 ; Times: 15
+	Date: 2019-07-12 ; Times: 25
+	Date: 2019-07-13 ; Times: 2
+	Date: 2019-07-10 ; Times: 7
+	Date: 2019-07-11 ; Times: 11
+	Date: 2019-07-16 ; Times: 9
+	Date: 2019-07-17 ; Times: 6
+	Date: 2019-07-15 ; Times: 7
+	Date: 2019-07-29 ; Times: 3
+	Date: 2019-07-23 ; Times: 1
+	Date: 2019-07-22 ; Times: 2
+	Date: 2019-07-21 ; Times: 4
+	Date: 2019-07-02 ; Times: 2
+	Date: 2019-07-26 ; Times: 1
+	Date: 2019-07-25 ; Times: 3
+	Date: 2019-07-24 ; Times: 8
+	Date: 2019-07-03 ; Times: 2
+	Date: 2019-07-28 ; Times: 1
+	Date: 2019-07-05 ; Times: 17
+	Date: 2019-07-07 ; Times: 1
+	Date: 2019-07-06 ; Times: 1
+	Date: 2019-07-31 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;Branta canadensis&#34; vntype:specimen specificepithet:canadensis genus:Branta AND (NOT maxima NOT taverneri NOT taverni NOT moffitti NOT leucopareia NOT parvipes NOT minima NOT occidentalis NOT &#34;canadensis canadensis&#34; NOT hutchinsii NOT fulva NOT interior NOT hutchinsi NOT belcheri) year &gt;= 1000 year &lt;= 1920" ; Times: 1
+	Query: "diomedea irrorata" ; Times: 6
+	Query: "Oceanodroma markhami" ; Times: 2
+	Query: "specificepithet:cyanocephalus genus:Euphagus year &gt;= 1903 year &lt;= 1903" ; Times: 1
+	Query: "eudromia formosa" ; Times: 18
+	Query: "maoriana" ; Times: 1
+	Query: "specificepithet:redivivum genus:toxostoma county:&#34;riverside&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Melanocorypha yeltoniensis" ; Times: 1
+	Query: "class:aves locality:mountain lake county:&#34;giles&#34;" ; Times: 1
+	Query: "catalognumber:11983" ; Times: 1
+	Query: "pelagodroma new zealand" ; Times: 2
+	Query: "gbifdatasetid:43e0bba3-9edb-4b00-b490-84924e55a222" ; Times: 12
+	Query: "genus:Synthliboramphus specificepithet:antiquus" ; Times: 1
+	Query: "asturina nitida" ; Times: 3
+	Query: "Haliaeetus leucocephalus" ; Times: 3
+	Query: "catalognumber:7738 institutioncode:FMNH" ; Times: 2
+	Query: "genus:Ictinia specificepithet:mississippiensis" ; Times: 1
+	Query: "catalognumber:7044 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:ichthyaetus class:Aves" ; Times: 2
+	Query: "&#34;Branta canadensis&#34; vntype:specimen specificepithet:canadensis genus:Branta AND (maxima) year &gt;= 1000 year &lt;= 1920" ; Times: 2
+	Query: "county:&#34;Duval&#34; stateprovince:&#34;Texas&#34; country:&#34;USA&#34;" ; Times: 1
+	Query: "pelagodroma marina maoriana" ; Times: 2
+	Query: "vntype:specimen specificepithet:quiscula genus:Quiscalus stateprovince:&#34;Minnesota&#34; year &gt;= 1900 year &lt;= 2019 month &gt;= 4 month &lt;= 7" ; Times: 1
+	Query: "egg brora" ; Times: 5
+	Query: "vireo marshall" ; Times: 1
+	Query: "vntype:specimen specificepithet:quiscula genus:Quiscalus stateprovince:&#34;Georgia&#34; year &gt;= 1900 year &lt;= 2019 month &gt;= 4 month &lt;= 7" ; Times: 1
+	Query: "vntype:specimen specificepithet:quiscula genus:Quiscalus stateprovince:&#34;South Carolina&#34; year &gt;= 1900 year &lt;= 2019 month &gt;= 4 month &lt;= 7" ; Times: 1
+	Query: "FMNH 7738" ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 1
+	Query: "specificepithet:communis genus:Sylvia" ; Times: 2
+	Query: "Pelecanus occidentalis south carolina" ; Times: 1
+	Query: "&#34;Branta canadensis maxima&#34; vntype:specimen specificepithet:canadensis genus:Branta basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Esacus recurvirostris" ; Times: 2
+	Query: "catalognumber:13244" ; Times: 1
+	Query: "genus:Falco specificepithet:subbuteo" ; Times: 1
+	Query: "genus:Lampornis specificepithet:clemenciae" ; Times: 1
+	Query: "Crossoptilon crossoptilon" ; Times: 1
+	Query: "genus:Aepyornis" ; Times: 1
+	Query: "Oceanodroma tristrami" ; Times: 1
+	Query: "vntype:specimen specificepithet:quiscula genus:Quiscalus stateprovince:&#34;Iowa&#34; year &gt;= 1900 year &lt;= 2019 month &gt;= 4 month &lt;= 7" ; Times: 1
+	Query: "&#34;Branta canadensis maxima&#34; vntype:specimen specificepithet:canadensis genus:Branta" ; Times: 1
+	Query: "catalognumber:15911" ; Times: 2
+	Query: "genus:Remiz specificepithet:pendulinus" ; Times: 1
+	Query: "pelagodroma marina new zealand" ; Times: 1
+	Query: "otis tarda tarda" ; Times: 2
+	Query: "FMNH 15112" ; Times: 1
+	Query: "&#34;Branta canadensis&#34; vntype:specimen specificepithet:canadensis genus:Branta AND (NOT maxima NOT taverneri NOT taverni NOT moffitti NOT leucopareia NOT parvipes NOT minima NOT occidentalis NOT &#34;canadensis canadensis&#34; NOT hutchinsii NOT fulva NOT interior) year &gt;= 1000 year &lt;= 1920" ; Times: 1
+	Query: "genus:Buteo specificepithet:buteo" ; Times: 1
+	Query: "Bubo virginianus Texas egg" ; Times: 1
+	Query: "institutioncode:FMNH" ; Times: 4
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "leucosticte AND eggs" ; Times: 2
+	Query: "genus:Grus grus specificepithet:grus" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 33
+	Query: "&#34;Branta canadensis&#34; vntype:specimen specificepithet:canadensis genus:Branta AND (NOT maxima NOT taverneri NOT taverni NOT moffitti NOT leucopareia NOT parvipes NOT minima NOT occidentalis NOT &#34;canadensis canadensis&#34; NOT hutchinsii NOT fulva NOT interior NOT hutchinsi NOT belcheri NOT teverneri) year &gt;= 1000 year &lt;= 1920" ; Times: 2
+	Query: "Oceanodroma socorroensis" ; Times: 1
+	Query: "&#34;Branta canadensis maxima&#34; vntype:specimen specificepithet:canadensis genus:Branta year &gt;= 1000 year &lt;= 1920" ; Times: 1
+	Query: "specificepithet:brunneicapillus genus:Campylorhynchus year &gt;= 1907 year &lt;= 1907" ; Times: 1
+	Query: "&#34;Branta canadensis canadensis&#34; vntype:specimen specificepithet:canadensis genus:Branta year &gt;= 1000 year &lt;= 1920" ; Times: 1
+	Query: "otis tarda" ; Times: 5
+	Query: "genus:Tachybaptus specificepithet:dominicus" ; Times: 1
+	Query: "specificepithet:ichthyaetus genus:Larus" ; Times: 1
+	Query: "specificepithet:kirtlandii institutioncode:FMNH" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 985 download events in this period)
+Total number of records downloaded: 219
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 17
+	Country: Sweden ; Times: 1
+	Country: Guadeloupe ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 1
+	Date: 2019-07-08 ; Times: 3
+	Date: 2019-07-27 ; Times: 1
+	Date: 2019-07-26 ; Times: 2
+	Date: 2019-07-22 ; Times: 1
+	Date: 2019-07-12 ; Times: 3
+	Date: 2019-07-03 ; Times: 1
+	Date: 2019-07-11 ; Times: 2
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-04 ; Times: 1
+	Date: 2019-07-31 ; Times: 12
+	Date: 2019-07-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Branta bernicla" ; Times: 1
+	Query: "porzana carolina" ; Times: 1
+	Query: "(&#34;Patagioenas leucocephala&#34; OR &#34;Columba leucocephala&#34;)" ; Times: 1
+	Query: "vermivora bachmanii" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:Branta basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Aphelocoma stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "crax rubra" ; Times: 8
+	Query: "upupa epops" ; Times: 1
+	Query: "Branta hutchinsii" ; Times: 1
+	Query: "Anser caerulescens" ; Times: 1
+	Query: "&#34;Branta canadensis&#34; vntype:specimen specificepithet:canadensis genus:Branta AND (NOT maxima NOT taverneri NOT taverni NOT moffitti NOT leucopareia NOT parvipes NOT minima NOT occidentalis NOT &#34;canadensis canadensis&#34; NOT hutchinsii NOT fulva NOT interior NOT hutchinsi NOT belcheri NOT teverneri NOT asiatica) year &gt;= 1000 year &lt;= 1920" ; Times: 1
+	Query: "specificepithet:vicinior genus:Vireo" ; Times: 1
+	Query: "Branta canadensis" ; Times: 1
+	Query: "&#34;Branta canadensis canadensis&#34; vntype:specimen specificepithet:canadensis genus:Branta year &gt;= 1000 year &lt;= 1920" ; Times: 1
+	Query: "Vireo bellii pusillus" ; Times: 2
+	Query: "class:aves locality:mountain lake county:&#34;giles&#34;" ; Times: 1
+	Query: "&#34;Branta canadensis maxima&#34; vntype:specimen specificepithet:canadensis genus:Branta year &gt;= 1000 year &lt;= 1920" ; Times: 1
+	Query: "specificepithet:communis genus:Sylvia" ; Times: 1
+	Query: "specificepithet:kirtlandii institutioncode:FMNH" ; Times: 1
+	Query: "Porzana carolina" ; Times: 1
+
+
+End of report.
