@@ -1,0 +1,318 @@
+Report for Institution Code FMNH, Resource fm_birds_eggs
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 410
+Number of records retrieved in searches: 4172
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 247
+	Country: Italy ; Times: 22
+	Country: Denmark ; Times: 24
+	Country: Finland ; Times: 3
+	Country: Austria ; Times: 1
+	Country: United Kingdom ; Times: 37
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Peru ; Times: 68
+	Country: Unknown ; Times: 1
+	Country: Thailand ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-27 ; Times: 3
+	Date: 2019-08-28 ; Times: 5
+	Date: 2019-08-08 ; Times: 20
+	Date: 2019-08-29 ; Times: 8
+	Date: 2019-08-01 ; Times: 8
+	Date: 2019-08-02 ; Times: 10
+	Date: 2019-08-03 ; Times: 10
+	Date: 2019-08-05 ; Times: 31
+	Date: 2019-08-06 ; Times: 5
+	Date: 2019-08-07 ; Times: 11
+	Date: 2019-08-26 ; Times: 1
+	Date: 2019-08-09 ; Times: 21
+	Date: 2019-08-24 ; Times: 2
+	Date: 2019-08-25 ; Times: 8
+	Date: 2019-08-22 ; Times: 4
+	Date: 2019-08-20 ; Times: 20
+	Date: 2019-08-21 ; Times: 7
+	Date: 2019-08-17 ; Times: 2
+	Date: 2019-08-16 ; Times: 21
+	Date: 2019-08-15 ; Times: 51
+	Date: 2019-08-14 ; Times: 73
+	Date: 2019-08-13 ; Times: 25
+	Date: 2019-08-12 ; Times: 4
+	Date: 2019-08-10 ; Times: 1
+	Date: 2019-08-30 ; Times: 40
+	Date: 2019-08-19 ; Times: 19
+
+List of queries that retrieved data from the resource: 
+	Query: "Eremophila alpestris strigata" ; Times: 7
+	Query: "Ardeola ralloides" ; Times: 1
+	Query: "specificepithet:aureola genus:Emberiza" ; Times: 2
+	Query: "Cochlearius cochlearius" ; Times: 1
+	Query: "Anhima cornuta" ; Times: 1
+	Query: "Eriocnemis cupreoventris" ; Times: 1
+	Query: "Platalea leucorodia" ; Times: 1
+	Query: "Aramides cajanea" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (San Benito) AND (NOT Ptychoramphus)" ; Times: 1
+	Query: "catalognumber:10741 institutioncode:FMNH" ; Times: 2
+	Query: "Calidris canutus" ; Times: 6
+	Query: "Anas flavirostris" ; Times: 1
+	Query: "Oenanthe cypriaca vntype:specimen" ; Times: 1
+	Query: "Eudyptes chrysocome" ; Times: 1
+	Query: "Vireo bellii pusillus" ; Times: 4
+	Query: "genus:brachyramphus family:Alcidae country:&#34;mexico&#34; AND (NOT Coronados)" ; Times: 1
+	Query: "Xenus cinereus" ; Times: 1
+	Query: "family:Alcidae country:&#34;mexico&#34; (Coronado OR Coronados) AND (NOT Ptychoramphus) institutioncode:FMNH" ; Times: 2
+	Query: "specificepithet:leucoryphus genus:Haliaeetus" ; Times: 2
+	Query: "Tetrax tetrax" ; Times: 1
+	Query: "family:Alcidae country:&#34;mexico&#34; (Coronado OR Coronados) AND (NOT Ptychoramphus NOT Cepphus NOT Cerorhinca) institutioncode:FMNH" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 1
+	Query: "Oceanodroma markhami" ; Times: 2
+	Query: "Protonotaria citrea vntype:specimen (Egg)" ; Times: 3
+	Query: "Buteo hemilasius" ; Times: 1
+	Query: "specificepithet:muticus genus:Pavo" ; Times: 2
+	Query: "Phalacrocorax pygmaeus" ; Times: 1
+	Query: "family:Alcidae country:&#34;mexico&#34; (Coronado OR Coronados) AND (NOT Ptychoramphus) year &gt;= 1900 year &lt;= 1909" ; Times: 1
+	Query: "genus:Grus grus specificepithet:grus" ; Times: 1
+	Query: "Rhodopechys githaginea" ; Times: 1
+	Query: "Sterna albifrons browni" ; Times: 4
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "pelagodroma marina new zealand" ; Times: 4
+	Query: "Otis tarda" ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 1
+	Query: "Aphelocoma coerulescens coerulescens" ; Times: 40
+	Query: "institutioncode:FMNH" ; Times: 3
+	Query: "Phaethon aethereus" ; Times: 1
+	Query: "Strix occidentalis lucida" ; Times: 5
+	Query: "Lampornis clemenciae" ; Times: 1
+	Query: "Tinamus major" ; Times: 1
+	Query: "Buteogallus anthracinus" ; Times: 1
+	Query: "Phleocryptes melanops" ; Times: 1
+	Query: "egg vntype:specimen specificepithet:migratorius genus:turdus institutioncode:FMNH" ; Times: 2
+	Query: "Thalasseus elegans" ; Times: 1
+	Query: "Coeligena torquata" ; Times: 2
+	Query: "Amazilia saucerrottei" ; Times: 1
+	Query: "Nothura maculosa" ; Times: 1
+	Query: "Colibri cyanotus" ; Times: 1
+	Query: "Chlidonias leucopterus" ; Times: 1
+	Query: "specificepithet:falcinellus genus:Limicola institutioncode:FMNH" ; Times: 1
+	Query: "Oceanodroma macrodactyla NOT Kaeding NOT Beck NOT Anthony NOT Brown NOT Bryant" ; Times: 1
+	Query: "Mycteria americana" ; Times: 3
+	Query: "Apus melba" ; Times: 1
+	Query: "egg spizella atrogularis" ; Times: 1
+	Query: "specificepithet:demersus genus:Spheniscus" ; Times: 2
+	Query: "Crypturellus brevirostris" ; Times: 1
+	Query: "egg vntype:specimen specificepithet:pinus genus:dendroica institutioncode:FMNH" ; Times: 1
+	Query: "Crypturellus bartletti" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (coronados) institutioncode:FMNH" ; Times: 1
+	Query: "Carpodacus erythrinus" ; Times: 1
+	Query: "specificepithet:erithacus genus:Psittacus" ; Times: 2
+	Query: "oceanodroma socorroensis" ; Times: 1
+	Query: "egg vntype:specimen specificepithet:coronata genus:dendroica institutioncode:FMNH" ; Times: 1
+	Query: "Oceanodroma macrodactyla NOT Anthony NOT Kaeding NOT Brown NOT Bryant NOT white NOT Beck" ; Times: 1
+	Query: "specificepithet:tricolor genus:Agelaius" ; Times: 4
+	Query: "Serinus canaria" ; Times: 1
+	Query: "Anthropoides virgo" ; Times: 1
+	Query: "Otis tarda tarda" ; Times: 1
+	Query: "family:Alcidae (Benito) AND (NOT Ptychoramphus NOT Cepphus NOT Cerorhinca)" ; Times: 1
+	Query: "Parus cyanus" ; Times: 1
+	Query: "Hydrobates pelagicus" ; Times: 2
+	Query: "Crax rubra" ; Times: 1
+	Query: "Geotrygon montana" ; Times: 1
+	Query: "collectioncode:Birds institutioncode:FMNH" ; Times: 2
+	Query: "Oceanodroma macrodactyla NOT Anthony" ; Times: 1
+	Query: "Opisthocomus hoazin" ; Times: 1
+	Query: "Pterodroma inexpectata" ; Times: 1
+	Query: "irrorata" ; Times: 1
+	Query: "Rhynchotus rufescens" ; Times: 1
+	Query: "family:Alcidae country:&#34;mexico&#34; (Coronado OR Coronados) AND (NOT Ptychoramphus) year &gt;= 1920 year &lt;= 1929" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (Benito) AND (NOT Ptychoramphus)" ; Times: 3
+	Query: "Polioptila californica californica" ; Times: 6
+	Query: "Crex crex" ; Times: 1
+	Query: "maxima specificepithet:canadensis genus:Branta year &gt;= 1000 year &lt;= 1920 basisofrecord:PreservedSpecimen" ; Times: 7
+	Query: "family:Alcidae country:&#34;Mexico&#34; AND (NOT Ptychoramphus NOT Cepphus NOT Cerorhinca) year &gt;= 1850 year &lt;= 1890" ; Times: 1
+	Query: "Coronado family:Alcidae AND (NOT Ptychoramphus NOT Cepphus NOT Cerorhinca)" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 16
+	Query: "Falco femoralis" ; Times: 1
+	Query: "Oceanodroma macrodactyla NOT Anthony NOT Brown NOT Bryant" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (Los Coronado) AND (NOT Ptychoramphus NOT Cepphus NOT Cerorhinca)" ; Times: 1
+	Query: "Ciconia ciconia" ; Times: 1
+	Query: "Rhea americana" ; Times: 2
+	Query: "Ardea purpurea" ; Times: 1
+	Query: "Recurvirostra andina" ; Times: 1
+	Query: "Eudromia elegans" ; Times: 1
+	Query: "Nothura boraquira" ; Times: 1
+	Query: "Aepyornis maximus" ; Times: 1
+	Query: "Diomedea exulans" ; Times: 1
+	Query: "catalognumber:19075 institutioncode:FMNH" ; Times: 2
+	Query: "family:Alcidae country:&#34;Mexico&#34; AND (NOT Ptychoramphus NOT Cepphus NOT Cerorhinca) year &gt;= 1870 year &lt;= 1892" ; Times: 2
+	Query: "vntype:specimen institutioncode:FMNH" ; Times: 1
+	Query: "halocyptena" ; Times: 1
+	Query: "macrodactyla AND Guadalupe" ; Times: 1
+	Query: "Eudyptes moseleyi" ; Times: 1
+	Query: "gbifdatasetid:43e0bba3-9edb-4b00-b490-84924e55a222" ; Times: 1
+	Query: "genus:Anous institutioncode:FMNH" ; Times: 3
+	Query: "Turdoides squamiceps" ; Times: 2
+	Query: "family:Alcidae country:&#34;mexico&#34; (Coronado OR Coronados) AND (NOT Ptychoramphus) year &gt;= 1910 year &lt;= 1919" ; Times: 1
+	Query: "Fratercula corniculata" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "Nothoprocta cinerascens" ; Times: 1
+	Query: "egg vntype:specimen specificepithet:nigrescens genus:dendroica institutioncode:FMNH" ; Times: 1
+	Query: "Dendrocygna autumnalis" ; Times: 1
+	Query: "catalognumber:10864 institutioncode:FMNH" ; Times: 1
+	Query: "Tinamus osgoodi" ; Times: 1
+	Query: "pelagodroma marina maoriana" ; Times: 1
+	Query: "Anthus cervinus" ; Times: 1
+	Query: "benito family:Alcidae AND (NOT Ptychoramphus NOT Cepphus NOT Cerorhinca) institutioncode:FMNH" ; Times: 1
+	Query: "Phoebetria palpebrata" ; Times: 1
+	Query: "Zenaida macroura nebraska" ; Times: 1
+	Query: "egg vntype:specimen specificepithet:dominica genus:dendroica institutioncode:FMNH" ; Times: 1
+	Query: "Lophura nycthemera" ; Times: 1
+	Query: "Creagrus furcatus" ; Times: 1
+	Query: "family:Alcidae (San Benito) AND (NOT Ptychoramphus NOT Cepphus NOT Cerorhinca)" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 3
+	Query: "Esacus recurvirostris" ; Times: 2
+	Query: "vntype:specimen specificepithet:montezumae genus:Cyrtonyx stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Tachybaptus dominicus" ; Times: 1
+	Query: "Spheniscus humboldti" ; Times: 1
+	Query: "Vireo bellii" ; Times: 9
+	Query: "Oceanodroma macrodactyla NOT Anthony NOT Kaeding NOT Henninger NOT Brown NOT Bryant NOT white NOT Beck" ; Times: 1
+	Query: "Crax alector" ; Times: 1
+	Query: "Cursorius cursor" ; Times: 1
+	Query: "beadle egg aves" ; Times: 1
+	Query: "Procellaria cinerea" ; Times: 1
+	Query: "Polioptila californica" ; Times: 4
+	Query: "Eudocimus ruber" ; Times: 1
+	Query: "Oceanodroma macrodactyla" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 13
+	Query: "Sterna trudeaui" ; Times: 2
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "Elanoides forficatus" ; Times: 1
+	Query: "Rostrhamus sociabilis" ; Times: 1
+	Query: "Buteo rufinus" ; Times: 1
+	Query: "Boissonneaua flavescens" ; Times: 1
+	Query: "Aphelocoma coerulescens" ; Times: 33
+	Query: "specificepithet:americana genus:Grus" ; Times: 2
+	Query: "pavo muticus" ; Times: 1
+	Query: "Brachyramphus brevirostris" ; Times: 1
+	Query: "Oenanthe leucura" ; Times: 2
+	Query: "Fregata aquila" ; Times: 2
+	Query: "beadle egg" ; Times: 1
+	Query: "family:Alcidae (san benito) AND (NOT Ptychoramphus NOT Cepphus NOT Cerorhinca)" ; Times: 1
+	Query: "benito family:Alcidae AND (NOT Ptychoramphus NOT Cepphus NOT Cerorhinca)" ; Times: 1
+	Query: "Vanellus chilensis" ; Times: 1
+	Query: "egg nebraska" ; Times: 2
+	Query: "Sula nebouxii" ; Times: 1
+	Query: "genus:Catharacta institutioncode:FMNH" ; Times: 1
+	Query: "Turdus fuscater" ; Times: 1
+	Query: "Bulweria bulwerii" ; Times: 1
+	Query: "specificepithet:marmoratus genus:Brachyramphus" ; Times: 2
+	Query: "Oceanodroma macrodactyla NOT Anthony NOT Brown NOT Bryant NOT white NOT Beck" ; Times: 1
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 1
+	Query: "Eudromia formosa" ; Times: 1
+	Query: "Brachyramphus marmoratus" ; Times: 6
+	Query: "Ortalis canicollis" ; Times: 1
+	Query: "egg vntype:specimen specificepithet:trichas genus:Geothlypis institutioncode:FMNH" ; Times: 1
+	Query: "Oceanodroma macrodactyla NOT Beck NOT Anthony NOT Brown NOT Bryant" ; Times: 1
+	Query: "Buteo brachyurus" ; Times: 2
+	Query: "Coccyzus americanus occidentalis" ; Times: 2
+	Query: "Buteo albonotatus" ; Times: 1
+	Query: "catalognumber:1 institutioncode:FMNH" ; Times: 2
+	Query: "turdoides squamiceps" ; Times: 5
+	Query: "Cariama cristata" ; Times: 1
+	Query: "pelagodroma maoriana" ; Times: 3
+	Query: "Himatione sanguinea" ; Times: 1
+	Query: "21879" ; Times: 1
+	Query: "Anas andium" ; Times: 1
+	Query: "specificepithet:cherrug genus:Falco" ; Times: 2
+	Query: "Aegypius monachus" ; Times: 1
+	Query: "specificepithet:mexicanus genus:falco year &gt;= 1910 year &lt;= 1915" ; Times: 2
+	Query: "specificepithet:percnopterus genus:Neophron" ; Times: 2
+	Query: "specificepithet:coerulescens genus:Aphelocoma" ; Times: 3
+	Query: "egg vntype:specimen specificepithet:hyemalis genus:Junco institutioncode:FMNH" ; Times: 2
+	Query: "Charadrius melodus" ; Times: 4
+	Query: "oenanthe cypriaca" ; Times: 1
+	Query: "Ictinia mississippiensis" ; Times: 1
+	Query: "institutioncode:fmnh" ; Times: 1
+	Query: "Chauna chavaria" ; Times: 1
+	Query: "Steatornis caripensis" ; Times: 1
+	Query: "specificepithet:californianus genus:Gymnogyps" ; Times: 2
+	Query: "Piranga hepatica" ; Times: 1
+	Query: "Empidonax traillii" ; Times: 3
+	Query: "Crypturellus undulatus" ; Times: 2
+	Query: "Anodorhynchus hyacinthinus" ; Times: 3
+	Query: "Coccyzus americanus americanus" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 1034 download events in this period)
+Total number of records downloaded: 673
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 18
+	Country: Italy ; Times: 5
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-20 ; Times: 2
+	Date: 2019-08-09 ; Times: 1
+	Date: 2019-08-07 ; Times: 1
+	Date: 2019-08-02 ; Times: 4
+	Date: 2019-08-16 ; Times: 2
+	Date: 2019-08-15 ; Times: 1
+	Date: 2019-08-03 ; Times: 1
+	Date: 2019-08-13 ; Times: 5
+	Date: 2019-08-05 ; Times: 5
+	Date: 2019-08-28 ; Times: 1
+	Date: 2019-08-29 ; Times: 2
+	Date: 2019-08-27 ; Times: 2
+	Date: 2019-08-25 ; Times: 2
+	Date: 2019-08-22 ; Times: 1
+	Date: 2019-08-12 ; Times: 2
+	Date: 2019-08-19 ; Times: 1
+	Date: 2019-08-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "pavo muticus" ; Times: 1
+	Query: "Oenanthe leucura" ; Times: 1
+	Query: "saxicola rubicola" ; Times: 1
+	Query: "family:Alcidae (san benito) AND (NOT Ptychoramphus NOT Cepphus NOT Cerorhinca)" ; Times: 1
+	Query: "specificepithet:virginianus subarcticus genus:Bubo" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Oenanthe cypriaca vntype:specimen" ; Times: 1
+	Query: "oceanodroma socorroensis" ; Times: 1
+	Query: "specificepithet:virescens genus:Empidonax" ; Times: 1
+	Query: "family:tinamidae collectioncode:birds institutioncode:FMNH" ; Times: 1
+	Query: "family:Alcidae country:&#34;mexico&#34; (Coronado OR Coronados) AND (NOT Ptychoramphus) year &gt;= 1910 year &lt;= 1919" ; Times: 1
+	Query: "Arequipa" ; Times: 2
+	Query: "specificepithet:virginianus OR scandiacus OR scandiaca genus:Bubo OR Nyctea institutioncode:FMNH" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "Santander" ; Times: 1
+	Query: "Polysticta stelleri" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "Hydrobates pelagicus" ; Times: 1
+	Query: "Cursorius cursor" ; Times: 1
+	Query: "family:Alcidae country:&#34;mexico&#34; (Coronado OR Coronados) AND (NOT Ptychoramphus) year &gt;= 1920 year &lt;= 1929" ; Times: 2
+	Query: "egg vntype:specimen specificepithet:hyemalis genus:Junco institutioncode:FMNH" ; Times: 1
+	Query: "oenanthe pleschanka" ; Times: 1
+	Query: "crax rubra" ; Times: 4
+	Query: "Anser albifrons" ; Times: 1
+	Query: "stateprovince:&#34;Baja California&#34; year &gt;= 1902 year &lt;= 1902" ; Times: 1
+	Query: "genus:Centrocercus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "egg vntype:specimen specificepithet:trichas genus:Geothlypis institutioncode:FMNH" ; Times: 1
+	Query: "egg vntype:specimen specificepithet:migratorius genus:turdus institutioncode:FMNH" ; Times: 1
+	Query: "family:Alcidae country:&#34;mexico&#34; (Coronado OR Coronados) AND (NOT Ptychoramphus NOT Cepphus NOT Cerorhinca)" ; Times: 1
+
+
+End of report.
