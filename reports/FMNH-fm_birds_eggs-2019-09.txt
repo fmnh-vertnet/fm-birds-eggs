@@ -1,0 +1,160 @@
+Report for Institution Code FMNH, Resource fm_birds_eggs
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 217
+Number of records retrieved in searches: 3719
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 6
+	Country: Austria ; Times: 1
+	Country: Vietnam ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Unknown ; Times: 8
+	Country: New Zealand ; Times: 1
+	Country: Guadeloupe ; Times: 1
+	Country: United States ; Times: 185
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 5
+	Date: 2019-09-16 ; Times: 4
+	Date: 2019-09-10 ; Times: 8
+	Date: 2019-09-11 ; Times: 5
+	Date: 2019-09-12 ; Times: 5
+	Date: 2019-09-13 ; Times: 6
+	Date: 2019-09-18 ; Times: 6
+	Date: 2019-09-19 ; Times: 15
+	Date: 2019-09-30 ; Times: 1
+	Date: 2019-09-09 ; Times: 2
+	Date: 2019-09-08 ; Times: 2
+	Date: 2019-09-03 ; Times: 12
+	Date: 2019-09-06 ; Times: 96
+	Date: 2019-09-05 ; Times: 2
+	Date: 2019-09-04 ; Times: 31
+	Date: 2019-09-21 ; Times: 3
+	Date: 2019-09-20 ; Times: 1
+	Date: 2019-09-23 ; Times: 4
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-25 ; Times: 2
+	Date: 2019-09-24 ; Times: 1
+	Date: 2019-09-27 ; Times: 3
+	Date: 2019-09-29 ; Times: 1
+	Date: 2019-09-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Catreus wallichii" ; Times: 3
+	Query: "Aphelocoma New Mexico Grant County" ; Times: 1
+	Query: "Coracias benghalensis vntype:specimen institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:humeralis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Aphelocoma californica Tulare County" ; Times: 1
+	Query: "specificepithet:leucocephala genus:Columba family:Columbidae institutioncode:FMNH" ; Times: 1
+	Query: "newfoundland vntype:specimen (lagopus mutus)" ; Times: 1
+	Query: "Calidris canutus" ; Times: 15
+	Query: "vntype:specimen institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 21870" ; Times: 1
+	Query: "FMNH amazilia" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 10
+	Query: "gbifdatasetid:43e0bba3-9edb-4b00-b490-84924e55a222" ; Times: 10
+	Query: "Pelecanus philippensis" ; Times: 1
+	Query: "Apteryx" ; Times: 1
+	Query: "tiaris bicolor fmnh" ; Times: 2
+	Query: "FMNH 22238" ; Times: 2
+	Query: "specificepithet:albonotatus genus:Buteo stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Pinguinus" ; Times: 2
+	Query: "locality:Aptos county:&#34;Santa Cruz&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Aphelocoma californica Sonoma County" ; Times: 1
+	Query: "specificepithet:cristata genus:Cyanocitta year &gt;= 2019 institutioncode:FMNH" ; Times: 1
+	Query: "class:aves country:&#34;russia&#34; year &gt;= 1906 year &lt;= 1906" ; Times: 1
+	Query: "Empidonax traillii" ; Times: 12
+	Query: "Catreus wallichii NOT (skin)" ; Times: 1
+	Query: "FMNH 12879" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 15
+	Query: "catalognumber:11444 institutioncode:FMNH" ; Times: 1
+	Query: "Aphelocoma coerulescens" ; Times: 36
+	Query: "aquila adalberti" ; Times: 1
+	Query: "lagopus mutus newfoundland" ; Times: 1
+	Query: "puffinus polynesia" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;newfoundland&#34; (lagopus mutus) AND (NOT buteo)" ; Times: 2
+	Query: "Perisoreus canadensis alberta egg" ; Times: 1
+	Query: "lagopus mutus vntype:specimen stateprovince:&#34;newfoundland&#34; AND (NOT buteo)" ; Times: 1
+	Query: "turdoides squamiceps fmnh" ; Times: 1
+	Query: "palumbus Columba" ; Times: 3
+	Query: "catalognumber:20459" ; Times: 1
+	Query: "specificepithet:glandarius class:aves year &gt;= 1906 year &lt;= 1906" ; Times: 1
+	Query: "Catreus wallichii NOT (skin OR skeleton)" ; Times: 1
+	Query: "Aphelocoma coerulescens coerulescens" ; Times: 22
+	Query: "institutioncode:fmnh" ; Times: 3
+	Query: "phoenicurus erythronotus" ; Times: 1
+	Query: "Phoenicurus moussieri" ; Times: 6
+	Query: "Alcedo atthis vntype:specimen institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (lagopus mutus) AND (NOT buteo)" ; Times: 2
+	Query: "institutioncode:FMNH" ; Times: 7
+	Query: "specificepithet:atricapillus class:aves year &gt;= 1906 year &lt;= 1906" ; Times: 1
+	Query: "Aphelocoma californica San Diego County Escondido" ; Times: 1
+	Query: "specificepithet:varia genus:Strix stateprovince:&#34;Illinois&#34; institutioncode:FMNH" ; Times: 1
+	Query: "county:&#34;Madison&#34; stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 4
+	Query: "Coccyzus americanus americanus" ; Times: 27
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 39 (out of 1073 download events in this period)
+Total number of records downloaded: 378
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 21
+	Country: United States ; Times: 11
+	Country: Germany ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Guadeloupe ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-21 ; Times: 2
+	Date: 2019-09-23 ; Times: 2
+	Date: 2019-09-10 ; Times: 5
+	Date: 2019-09-11 ; Times: 2
+	Date: 2019-09-13 ; Times: 1
+	Date: 2019-09-18 ; Times: 1
+	Date: 2019-09-19 ; Times: 18
+	Date: 2019-09-09 ; Times: 2
+	Date: 2019-09-03 ; Times: 2
+	Date: 2019-09-07 ; Times: 1
+	Date: 2019-09-06 ; Times: 1
+	Date: 2019-09-05 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Lagopus stateprovince:&#34;Newfoundland&#34; country:&#34;Canada&#34;" ; Times: 2
+	Query: "Metallura tyrianthina" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (lagopus) AND (NOT buteo)" ; Times: 11
+	Query: "class:aves stateprovince:&#34;scotland&#34; year &gt;= 1905 year &lt;= 1915" ; Times: 1
+	Query: "Zonotrichia capensis" ; Times: 1
+	Query: "specificepithet:leucocephala genus:Columba family:Columbidae institutioncode:FMNH" ; Times: 1
+	Query: "Pterodroma vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "class:aves stateprovince:&#34;scotland&#34; year &gt;= 1890 year &lt;= 1905" ; Times: 2
+	Query: "vntype:specimen stateprovince:&#34;newfoundland&#34; (lagopus) AND (NOT buteo NOT Alopex NOT Vulpes)" ; Times: 3
+	Query: "institutioncode:fmnh" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 2
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (lagopus) AND (NOT Buteo)" ; Times: 1
+	Query: "anas flavirostris" ; Times: 2
+	Query: "Coeligena torquata" ; Times: 1
+	Query: "Coeligena coeligena" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (Lagopus) AND (NOT Buteo)" ; Times: 3
+	Query: "lagopus newfoundland vntype:specimen" ; Times: 1
+	Query: "family:cracidae" ; Times: 1
+
+
+End of report.
