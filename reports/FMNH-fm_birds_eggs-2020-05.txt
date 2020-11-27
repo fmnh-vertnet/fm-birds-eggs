@@ -1,0 +1,154 @@
+Report for Institution Code FMNH, Resource fm_birds_eggs
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 60
+Number of records retrieved in searches: 609
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: United States ; Times: 47
+	Country: Peru ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-24 ; Times: 1
+	Date: 2020-05-26 ; Times: 3
+	Date: 2020-05-22 ; Times: 3
+	Date: 2020-05-31 ; Times: 7
+	Date: 2020-05-29 ; Times: 2
+	Date: 2020-05-02 ; Times: 1
+	Date: 2020-05-19 ; Times: 3
+	Date: 2020-05-07 ; Times: 5
+	Date: 2020-05-09 ; Times: 5
+	Date: 2020-05-08 ; Times: 3
+	Date: 2020-05-10 ; Times: 2
+	Date: 2020-05-06 ; Times: 2
+	Date: 2020-05-04 ; Times: 7
+	Date: 2020-05-03 ; Times: 3
+	Date: 2020-05-15 ; Times: 5
+	Date: 2020-05-01 ; Times: 3
+	Date: 2020-05-17 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Junco phaeonotus cochise egg" ; Times: 1
+	Query: "Anas fulvigula" ; Times: 1
+	Query: "vntype:specimen specificepithet:daurica genus:Cecropis institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:migratorius genus:Ectopistes hasmedia:1" ; Times: 1
+	Query: "9168 fmnh" ; Times: 1
+	Query: "Junco hyemalis Placer County egg" ; Times: 1
+	Query: "specificepithet:migratorius genus:Ectopistes institutioncode:FMNH" ; Times: 4
+	Query: "Junco hyemalis Banff egg" ; Times: 1
+	Query: "15579 institutioncode:FMNH" ; Times: 1
+	Query: "gbifdatasetid:43e0bba3-9edb-4b00-b490-84924e55a222" ; Times: 4
+	Query: "vntype:specimen specificepithet:migratorius genus:Ectopistes hasmedia:1" ; Times: 1
+	Query: "peru class:aves stateprovince:&#34;arequipa&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "FMNH 19854" ; Times: 1
+	Query: "Texas Accipiter cooperii" ; Times: 2
+	Query: "vntype:specimen specificepithet:calandra genus:Emberiza institutioncode:FMNH" ; Times: 1
+	Query: "Catharus 692" ; Times: 1
+	Query: "catalognumber:16611" ; Times: 2
+	Query: "class:aves catalognumber:7319" ; Times: 1
+	Query: "Aquila chrysaetos Texas" ; Times: 1
+	Query: "catalognumber:1408 institutioncode:FMNH" ; Times: 1
+	Query: "aquila adalberti" ; Times: 1
+	Query: "FMNH 11405" ; Times: 2
+	Query: "FMNH 19503" ; Times: 1
+	Query: "gaine" ; Times: 1
+	Query: "vntype:specimen specificepithet:psaltria genus:Carduelis institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:5751 institutioncode:FMNH" ; Times: 1
+	Query: "genus:Pica county:&#34;Ventura&#34;" ; Times: 1
+	Query: "catalognumber:19612" ; Times: 1
+	Query: "specificepithet:niger genus:Chlidonias class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Caprimulgus carolinensis Texas" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo stateprovince:&#34;california&#34; year &gt;= 1850 year &lt;= 1920" ; Times: 2
+	Query: "catalognumber:16369" ; Times: 1
+	Query: "Texas Ictinia mississippiensis" ; Times: 1
+	Query: "catalognumber:13721 institutioncode:FMNH" ; Times: 2
+	Query: "FMNH Birds-Eggs 2690 Cardinalis sinuatus texana" ; Times: 1
+	Query: "specificepithet:jamaicensis genus:Buteo class:aves stateprovince:&#34;Kansas&#34;" ; Times: 2
+	Query: "institutioncode:FMNH" ; Times: 6
+	Query: "vntype:specimen specificepithet:flaveola genus:Coereba institutioncode:FMNH" ; Times: 1
+	Query: "class:Aves institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:nigripes genus:Diomedea" ; Times: 1
+	Query: "FMNH-10492" ; Times: 1
+	Query: "quiscalus minnesota fmnh" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 46 (out of 1106 download events in this period)
+Total number of records downloaded: 66537
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 40
+	Country: Unknown ; Times: 1
+	Country: Canada ; Times: 3
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-31 ; Times: 2
+	Date: 2020-05-29 ; Times: 14
+	Date: 2020-05-19 ; Times: 1
+	Date: 2020-05-06 ; Times: 5
+	Date: 2020-05-09 ; Times: 2
+	Date: 2020-05-08 ; Times: 3
+	Date: 2020-05-11 ; Times: 2
+	Date: 2020-05-13 ; Times: 2
+	Date: 2020-05-14 ; Times: 1
+	Date: 2020-05-15 ; Times: 13
+	Date: 2020-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:minimus genus:Psaltriparus institutioncode:FMNH" ; Times: 1
+	Query: "Birds Texas" ; Times: 1
+	Query: "vntype:specimen specificepithet:trichas genus:Geothlypis institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:migratorius genus:Ectopistes institutioncode:FMNH" ; Times: 1
+	Query: "Thryomanes bewickii" ; Times: 1
+	Query: "Geotrygon montana montana" ; Times: 1
+	Query: "vntype:specimen specificepithet:capensis genus:Zonotrichia institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:cardinalis genus:Cardinalis institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:leucophrys genus:Zonotrichia institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:coronata genus:Dendroica institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:ater genus:Molothrus institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:phoeniceus genus:Agelaius institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:ludovicianus genus:Lanius institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:mexicanus genus:Carpodacus institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "egg texas" ; Times: 1
+	Query: "Fratercula arctica" ; Times: 1
+	Query: "vntype:specimen specificepithet:alpestris genus:Eremophila institutioncode:FMNH" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;District of Columbia&#34;" ; Times: 1
+	Query: "Aquila chrysaetos Texas" ; Times: 1
+	Query: "pipilo nebraska" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:Passer institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:migratorius genus:Turdus institutioncode:FMNH" ; Times: 1
+	Query: "class:(aves OR Aves) institutioncode:FMNH" ; Times: 2
+	Query: "vntype:specimen specificepithet:gilvus genus:Vireo institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:quiscula genus:Quiscalus institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:psaltria genus:Carduelis institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:tristis genus:Carduelis institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:peregrina genus:Vermivora institutioncode:FMNH" ; Times: 1
+	Query: "Caprimulgus carolinensis Texas" ; Times: 1
+	Query: "vntype:specimen specificepithet:cedrorum genus:Bombycilla institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:petechia genus:Dendroica institutioncode:FMNH" ; Times: 1
+	Query: "stateprovince:&#34;Colima&#34; institutioncode:FMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo stateprovince:&#34;california&#34; year &gt;= 1850 year &lt;= 1920" ; Times: 1
+	Query: "Geotrygon chrysia" ; Times: 1
+	Query: "class:Aves institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:guttatus genus:Catharus institutioncode:FMNH" ; Times: 1
+	Query: "Calcarius ornatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:bewickii genus:Thryomanes institutioncode:FMNH" ; Times: 1
+	Query: "Jackson Oregon" ; Times: 1
+	Query: "vntype:specimen specificepithet:curvirostra genus:Loxia institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:flaveola genus:Coereba institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:aedon genus:Troglodytes institutioncode:FMNH" ; Times: 2
+	Query: "vntype:specimen specificepithet:pusilla genus:Wilsonia institutioncode:FMNH" ; Times: 1
+
+
+End of report.
