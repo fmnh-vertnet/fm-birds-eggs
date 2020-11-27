@@ -1,0 +1,205 @@
+Report for Institution Code FMNH, Resource fm_birds_eggs
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 114
+Number of records retrieved in searches: 881
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 49
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Cuba ; Times: 5
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 44
+	Country: Switzerland ; Times: 1
+	Country: Austria ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Pakistan ; Times: 1
+	Country: United Arab Emirates ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 2
+	Date: 2020-01-09 ; Times: 11
+	Date: 2020-01-03 ; Times: 4
+	Date: 2020-01-02 ; Times: 7
+	Date: 2020-01-07 ; Times: 20
+	Date: 2020-01-05 ; Times: 1
+	Date: 2020-01-20 ; Times: 8
+	Date: 2020-01-23 ; Times: 4
+	Date: 2020-01-08 ; Times: 18
+	Date: 2020-01-24 ; Times: 5
+	Date: 2020-01-27 ; Times: 2
+	Date: 2020-01-26 ; Times: 1
+	Date: 2020-01-29 ; Times: 1
+	Date: 2020-01-28 ; Times: 1
+	Date: 2020-01-18 ; Times: 2
+	Date: 2020-01-19 ; Times: 3
+	Date: 2020-01-14 ; Times: 3
+	Date: 2020-01-15 ; Times: 4
+	Date: 2020-01-16 ; Times: 2
+	Date: 2020-01-17 ; Times: 5
+	Date: 2020-01-10 ; Times: 4
+	Date: 2020-01-11 ; Times: 1
+	Date: 2020-01-13 ; Times: 2
+	Date: 2020-01-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "6725 institutioncode:FMNH aves" ; Times: 1
+	Query: "catalognumber:19553 institutioncode:FMNH family:Tyrannidae" ; Times: 1
+	Query: "Empidonax wrightii institutioncode:FMNH aves" ; Times: 1
+	Query: "specificepithet:Canadensis genus:Branta collectioncode:BIRDS institutioncode:FMNH" ; Times: 2
+	Query: "county:&#34;wayne&#34; stateprovince:&#34;west virginia&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "catalognumber:21620 institutioncode:FMNH family:Columbidae" ; Times: 2
+	Query: "lanius egg maine" ; Times: 1
+	Query: "Myiarchus tyrannulus institutioncode:FMNH aves" ; Times: 1
+	Query: "class:aves catalognumber:11263" ; Times: 1
+	Query: "Myiarchus tuberculifer institutioncode:FMNH aves" ; Times: 1
+	Query: "12717 institutioncode:FMNH aves" ; Times: 1
+	Query: "12033 institutioncode:FMNH aves" ; Times: 1
+	Query: "sterna minnesota" ; Times: 1
+	Query: "Sayornis saya institutioncode:FMNH aves" ; Times: 1
+	Query: "uria lomvia greenland" ; Times: 1
+	Query: "Tyrannus vociferans institutioncode:FMNH aves" ; Times: 1
+	Query: "specificepithet:forsteri genus:Sterna class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Thryomanes bewickii san diego egg" ; Times: 1
+	Query: "10707 institutioncode:FMNH aves" ; Times: 1
+	Query: "vntype:specimen order:procellariiformes institutioncode:FMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:16658 institutioncode:FMNH family:Tyrannidae" ; Times: 1
+	Query: "15727 institutioncode:FMNH aves" ; Times: 1
+	Query: "22248 institutioncode:FMNH aves" ; Times: 1
+	Query: "21587 institutioncode:FMNH aves" ; Times: 1
+	Query: "specificepithet:cirrhata genus:Lunda county:&#34;san francisco&#34;" ; Times: 1
+	Query: "13990" ; Times: 1
+	Query: "catalognumber:19551 institutioncode:FMNH family:Tyrannidae" ; Times: 1
+	Query: "catalognumber:12682" ; Times: 1
+	Query: "6745 institutioncode:FMNH aves" ; Times: 1
+	Query: "Myiozetetes similis institutioncode:FMNH aves" ; Times: 1
+	Query: "gbifdatasetid:43e0bba3-9edb-4b00-b490-84924e55a222" ; Times: 4
+	Query: "specificepithet:cirrhata genus:Lunda" ; Times: 4
+	Query: "genus:calandrella country:&#34;ethiopia&#34; institutioncode:FMNH" ; Times: 1
+	Query: "Phalaenoptilus iowa" ; Times: 1
+	Query: "Tyrannus dominicensis institutioncode:FMNH aves" ; Times: 2
+	Query: "McHenry County Cistothorus palustris" ; Times: 2
+	Query: "Phalaenoptilus illinois" ; Times: 1
+	Query: "Empidonax fulvifrons institutioncode:FMNH aves" ; Times: 1
+	Query: "Falco sparverius Bond" ; Times: 1
+	Query: "19550 institutioncode:FMNH aves" ; Times: 1
+	Query: "Myiarchus cinerascens institutioncode:FMNH aves" ; Times: 2
+	Query: "catalognumber:12453" ; Times: 1
+	Query: "Lanius ludovicianus egg mississippi" ; Times: 1
+	Query: "catalognumber:19533 institutioncode:FMNH family:Tyrannidae" ; Times: 1
+	Query: "(Eremophila alpestris and egg and new york)" ; Times: 1
+	Query: "catalognumber:11263 institutioncode:FMNH" ; Times: 1
+	Query: "Tyrannus melancholicus institutioncode:FMNH aves" ; Times: 1
+	Query: "specificepithet:americanus genus:Coccyzus stateprovince:&#34;Arizona&#34;" ; Times: 4
+	Query: "specificepithet:trichopsis genus:otus institutioncode:FMNH" ; Times: 1
+	Query: "Tyrannus forficatus institutioncode:FMNH aves" ; Times: 2
+	Query: "19545 institutioncode:FMNH aves" ; Times: 1
+	Query: "lanius egg saskatchewan" ; Times: 1
+	Query: "vntype:specimen institutioncode:FMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "tympanuchus cupido cupido vntype:specimen institutioncode:FMNH" ; Times: 1
+	Query: "Contopus pertinax institutioncode:FMNH aves" ; Times: 1
+	Query: "grus americana minnesota" ; Times: 1
+	Query: "6660 institutioncode:FMNH aves" ; Times: 1
+	Query: "Alameda County Cistothorus palustris egg" ; Times: 1
+	Query: "Pitangus sulphuratus institutioncode:FMNH aves" ; Times: 2
+	Query: "Apteryx fmnh" ; Times: 1
+	Query: "catalognumber:19552 institutioncode:FMNH family:Tyrannidae" ; Times: 1
+	Query: "Porphyrula martinica FMNH" ; Times: 1
+	Query: "FMNH 19834" ; Times: 2
+	Query: "12400 institutioncode:FMNH aves" ; Times: 1
+	Query: "institutioncode:FMNH" ; Times: 10
+	Query: "12356" ; Times: 1
+	Query: "22254 institutioncode:FMNH aves" ; Times: 1
+	Query: "FMNH Aramus guarauna" ; Times: 1
+	Query: "21969 institutioncode:FMNH aves" ; Times: 1
+	Query: "catalognumber:16265 institutioncode:FMNH" ; Times: 1
+	Query: "Empidonax oberholseri institutioncode:FMNH aves" ; Times: 1
+	Query: "Myiodynastes luteiventris institutioncode:FMNH aves" ; Times: 1
+	Query: "FMNH Porphyrio" ; Times: 2
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Sao Paulo&#34; country:&#34;Brazil&#34; institutioncode:FMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:calandrella country:&#34;ethiopia&#34; year &gt;= 1925 year &lt;= 1930 institutioncode:FMNH" ; Times: 1
+	Query: "Vermivora bachmanii" ; Times: 5
+	Query: "Merops persicus" ; Times: 1
+	Query: "Sayornis nigricans institutioncode:FMNH aves" ; Times: 1
+	Query: "Tyrannus verticalis institutioncode:FMNH aves" ; Times: 2
+	Query: "catalognumber:12799 institutioncode:FMNH" ; Times: 1
+	Query: "Mycteria ibis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 32 (out of 1584 download events in this period)
+Total number of records downloaded: 22593
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 6
+	Country: United Arab Emirates ; Times: 1
+	Country: Cuba ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 19
+	Country: Austria ; Times: 2
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 1
+	Date: 2020-01-08 ; Times: 3
+	Date: 2020-01-07 ; Times: 2
+	Date: 2020-01-05 ; Times: 2
+	Date: 2020-01-04 ; Times: 1
+	Date: 2020-01-14 ; Times: 1
+	Date: 2020-01-15 ; Times: 1
+	Date: 2020-01-09 ; Times: 1
+	Date: 2020-01-22 ; Times: 1
+	Date: 2020-01-25 ; Times: 2
+	Date: 2020-01-24 ; Times: 7
+	Date: 2020-01-27 ; Times: 1
+	Date: 2020-01-26 ; Times: 1
+	Date: 2020-01-21 ; Times: 3
+	Date: 2020-01-11 ; Times: 1
+	Date: 2020-01-20 ; Times: 1
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-13 ; Times: 1
+	Date: 2020-01-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "strix varia" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "family:Tyrannidae institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:asio genus:otus institutioncode:FMNH" ; Times: 1
+	Query: "gbifdatasetid:43e0bba3-9edb-4b00-b490-84924e55a222" ; Times: 1
+	Query: "mimus polyglottos" ; Times: 2
+	Query: "turdus plumbeus" ; Times: 1
+	Query: "specificepithet:kennicottii genus:otus institutioncode:FMNH" ; Times: 1
+	Query: "genus:calandrella country:&#34;ethiopia&#34; institutioncode:FMNH" ; Times: 1
+	Query: "Xanthocephalus" ; Times: 1
+	Query: "specificepithet:canadensis genus:branta collectioncode:birds institutioncode:FMNH" ; Times: 1
+	Query: "Cynanthus sordidus" ; Times: 1
+	Query: "Zenaida aurita" ; Times: 1
+	Query: "pterodroma vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sturnus" ; Times: 1
+	Query: "Burhinus oedicnemus" ; Times: 1
+	Query: "country:&#34;Nepal&#34; institutioncode:FMNH" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "genus:Cursorius family:Glareolidae class:Aves continent:Africa" ; Times: 1
+	Query: "Vermivora bachmanii" ; Times: 1
+	Query: "aquila chrysaetos canadensis" ; Times: 1
+	Query: "Mycteria ibis" ; Times: 1
+	Query: "genus:Xanthocephalus" ; Times: 2
+	Query: "specificepithet:trichopsis genus:otus institutioncode:FMNH" ; Times: 1
+	Query: "genus:calandrella country:&#34;ethiopia&#34; year &gt;= 1925 year &lt;= 1930 institutioncode:FMNH" ; Times: 1
+	Query: "stateprovince:&#34;Quintana Roo&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 2
+	Query: "specificepithet:americanus genus:Coccyzus stateprovince:&#34;Arizona&#34;" ; Times: 1
+
+
+End of report.
