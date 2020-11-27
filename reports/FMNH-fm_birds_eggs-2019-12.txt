@@ -1,0 +1,111 @@
+Report for Institution Code FMNH, Resource fm_birds_eggs
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 74
+Number of records retrieved in searches: 1064
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: Poland ; Times: 8
+	Country: United States ; Times: 58
+	Country: Germany ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-27 ; Times: 4
+	Date: 2019-12-26 ; Times: 8
+	Date: 2019-12-21 ; Times: 2
+	Date: 2019-12-30 ; Times: 8
+	Date: 2019-12-31 ; Times: 6
+	Date: 2019-12-01 ; Times: 3
+	Date: 2019-12-29 ; Times: 1
+	Date: 2019-12-18 ; Times: 6
+	Date: 2019-12-19 ; Times: 2
+	Date: 2019-12-07 ; Times: 1
+	Date: 2019-12-09 ; Times: 11
+	Date: 2019-12-10 ; Times: 9
+	Date: 2019-12-11 ; Times: 1
+	Date: 2019-12-12 ; Times: 3
+	Date: 2019-12-04 ; Times: 1
+	Date: 2019-12-03 ; Times: 1
+	Date: 2019-12-02 ; Times: 4
+	Date: 2019-12-16 ; Times: 1
+	Date: 2019-12-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:amazona country:&#34;USA&#34;" ; Times: 1
+	Query: "vntype:specimen preparations:tiss" ; Times: 1
+	Query: "Aegithalos caudatus FMNH" ; Times: 1
+	Query: "vntype:specimen institutioncode:FMNH" ; Times: 1
+	Query: "gbifdatasetid:43e0bba3-9edb-4b00-b490-84924e55a222" ; Times: 8
+	Query: "institutioncode:FMNH hasmedia:1" ; Times: 6
+	Query: "(Corvidae) institutioncode:FMNH hasmedia:1" ; Times: 1
+	Query: "family:Paradisaeidae collectioncode:birds institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:brasilianum genus:Glaucidium class:Aves stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "cepphus 1932" ; Times: 1
+	Query: "Thryomanes bewickii sonoma california" ; Times: 1
+	Query: "bird egg vanellus" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 1
+	Query: "catalognumber:1825 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:brevirostris genus:crypturellus family:tinamidae order:tinamiformes class:aves" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; country:&#34;usa&#34; year &gt;= 1750 year &lt;= 1900 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:1775 institutioncode:FMNH" ; Times: 1
+	Query: "fmnh crane" ; Times: 1
+	Query: "turdoides squamiceps" ; Times: 3
+	Query: "vntype:specimen specificepithet:femoralis genus:falco institutioncode:FMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "fmnh Gruidae" ; Times: 1
+	Query: "Cinclus ardesiacus" ; Times: 1
+	Query: "CIRCUS PYGARGUS" ; Times: 2
+	Query: "genus:Sula stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "(Columbidae) institutioncode:FMNH hasmedia:1" ; Times: 1
+	Query: "Eremophila alpestris strigata 2017" ; Times: 6
+	Query: "Eremophila alpestris strigata 2015" ; Times: 6
+	Query: "Eremophila alpestris strigata 2014" ; Times: 6
+	Query: "institutioncode:FMNH" ; Times: 4
+	Query: "Eremophila alpestris strigata 2019" ; Times: 6
+	Query: "13110" ; Times: 1
+	Query: "Pipilo fuscus senicula 1894" ; Times: 1
+	Query: "specificepithet:gilvus genus:vireo stateprovince:&#34;wyoming&#34;" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 596 download events in this period)
+Total number of records downloaded: 222
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-21 ; Times: 3
+	Date: 2019-12-18 ; Times: 3
+	Date: 2019-12-16 ; Times: 1
+	Date: 2019-12-09 ; Times: 2
+	Date: 2019-12-12 ; Times: 2
+	Date: 2019-12-01 ; Times: 2
+	Date: 2019-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Circus aeruginosus" ; Times: 1
+	Query: "family:Paradisaeidae collectioncode:birds institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:femoralis genus:falco institutioncode:FMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:thyroideus genus:Sphyrapicus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "genus:Sula stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "fmnh Gruidae" ; Times: 1
+	Query: "specificepithet:garzetta genus:Egretta" ; Times: 1
+	Query: "CIRCUS PYGARGUS" ; Times: 1
+	Query: "genus:amazona institutioncode:FMNH" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; country:&#34;usa&#34; year &gt;= 1750 year &lt;= 1900 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:amazona family:Psittacidae order:Psittaciformes" ; Times: 1
+	Query: "specificepithet:gilvus genus:vireo stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "sitta pusilla vntype:specimen" ; Times: 1
+
+
+End of report.
