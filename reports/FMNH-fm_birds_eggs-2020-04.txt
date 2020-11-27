@@ -1,0 +1,390 @@
+Report for Institution Code FMNH, Resource fm_birds_eggs
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 764
+Number of records retrieved in searches: 4902
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 196
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 8
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 12
+	Country: Luxembourg ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 532
+	Country: Germany ; Times: 4
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Eswatini ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-05 ; Times: 1
+	Date: 2020-04-06 ; Times: 24
+	Date: 2020-04-07 ; Times: 211
+	Date: 2020-04-22 ; Times: 5
+	Date: 2020-04-23 ; Times: 1
+	Date: 2020-04-20 ; Times: 4
+	Date: 2020-04-21 ; Times: 160
+	Date: 2020-04-01 ; Times: 4
+	Date: 2020-04-02 ; Times: 7
+	Date: 2020-04-25 ; Times: 4
+	Date: 2020-04-28 ; Times: 7
+	Date: 2020-04-29 ; Times: 37
+	Date: 2020-04-08 ; Times: 74
+	Date: 2020-04-09 ; Times: 4
+	Date: 2020-04-27 ; Times: 1
+	Date: 2020-04-24 ; Times: 5
+	Date: 2020-04-03 ; Times: 91
+	Date: 2020-04-19 ; Times: 4
+	Date: 2020-04-18 ; Times: 1
+	Date: 2020-04-13 ; Times: 24
+	Date: 2020-04-11 ; Times: 2
+	Date: 2020-04-10 ; Times: 6
+	Date: 2020-04-17 ; Times: 16
+	Date: 2020-04-16 ; Times: 2
+	Date: 2020-04-15 ; Times: 2
+	Date: 2020-04-14 ; Times: 34
+	Date: 2020-04-30 ; Times: 33
+
+List of queries that retrieved data from the resource: 
+	Query: "Delichon urbica" ; Times: 3
+	Query: "Corvus cryptoleucus" ; Times: 9
+	Query: "Anser fabalis" ; Times: 5
+	Query: "vntype:specimen specificepithet:viscivorus genus:Turdus institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:luciae genus:Vermivora institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:coccothraustes genus:Coccothraustes institutioncode:FMNH" ; Times: 1
+	Query: "Platalea leucorodia" ; Times: 2
+	Query: "vntype:specimen specificepithet:saya genus:Sayornis institutioncode:FMNH" ; Times: 1
+	Query: "Leiothrix lutea india" ; Times: 1
+	Query: "Ortalis vetula" ; Times: 3
+	Query: "Crax rubra" ; Times: 3
+	Query: "catalognumber:20255 institutioncode:FMNH" ; Times: 2
+	Query: "vntype:specimen specificepithet:sinuatus genus:Cardinalis institutioncode:FMNH" ; Times: 1
+	Query: "Cecropis daurica" ; Times: 8
+	Query: "Cygnus olor" ; Times: 10
+	Query: "Hippolais polyglotta" ; Times: 4
+	Query: "Bombycilla collectioncode:Birds-Eggs institutioncode:FMNH hasmedia:1" ; Times: 1
+	Query: "Corvus corone" ; Times: 9
+	Query: "Procellaria cinerea" ; Times: 9
+	Query: "catalognumber:5662 institutioncode:FMNH" ; Times: 2
+	Query: "Cairina moschata" ; Times: 8
+	Query: "vntype:specimen specificepithet:flaviceps genus:Auriparus institutioncode:FMNH" ; Times: 1
+	Query: "sitta collectioncode:Birds-Eggs institutioncode:FMNH hasmedia:1" ; Times: 1
+	Query: "Petronia petronia" ; Times: 8
+	Query: "Troglodytes collectioncode:Birds-Eggs institutioncode:FMNH hasmedia:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:philomelos genus:Turdus institutioncode:FMNH" ; Times: 1
+	Query: "Panurus biarmicus" ; Times: 7
+	Query: "vntype:specimen specificepithet:sinica genus:Carduelis institutioncode:FMNH" ; Times: 1
+	Query: "Buteo albicaudatus" ; Times: 5
+	Query: "vntype:specimen specificepithet:major genus:Parus institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:18760 institutioncode:FMNH" ; Times: 2
+	Query: "vntype:specimen specificepithet:chlorurus genus:Pipilo institutioncode:FMNH" ; Times: 1
+	Query: "ardea collectioncode:Birds-Eggs institutioncode:FMNH hasmedia:1" ; Times: 1
+	Query: "catalognumber:15046 institutioncode:FMNH" ; Times: 2
+	Query: "vntype:specimen specificepithet:pilaris genus:Turdus institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:aberti genus:Pipilo institutioncode:FMNH" ; Times: 1
+	Query: "county:&#34;Hamilton&#34; stateprovince:&#34;Tennessee&#34;" ; Times: 2
+	Query: "collectioncode:Birds-Eggs institutioncode:FMNH hasmedia:1" ; Times: 1
+	Query: "Circaetus gallicus" ; Times: 2
+	Query: "Gymnogyps californianus" ; Times: 4
+	Query: "Alectoris chukar" ; Times: 6
+	Query: "vntype:specimen specificepithet:aeneus genus:Molothrus institutioncode:FMNH" ; Times: 1
+	Query: "Cygnus atratus" ; Times: 5
+	Query: "catalognumber:9901 institutioncode:FMNH" ; Times: 2
+	Query: "Cygnus columbianus" ; Times: 5
+	Query: "vntype:specimen specificepithet:tigrinus genus:Lanius institutioncode:FMNH" ; Times: 1
+	Query: "institutioncode:FMNH" ; Times: 5
+	Query: "Buteogallus anthracinus" ; Times: 4
+	Query: "Tringa glareola" ; Times: 6
+	Query: "vntype:specimen specificepithet:bendirei genus:Toxostoma institutioncode:FMNH" ; Times: 1
+	Query: "Gallinago gallinago faeroeensis" ; Times: 1
+	Query: "catalognumber:9778 institutioncode:FMNH" ; Times: 4
+	Query: "junco collectioncode:Birds-Eggs institutioncode:FMNH hasmedia:1" ; Times: 1
+	Query: "Aethia cristatella" ; Times: 6
+	Query: "Gyps fulvus" ; Times: 4
+	Query: "Amazilia saucerrottei" ; Times: 3
+	Query: "Cyanocitta collectioncode:Birds-Eggs institutioncode:FMNH hasmedia:1" ; Times: 1
+	Query: "Catreus wallichii" ; Times: 3
+	Query: "Chrysolophus amherstiae" ; Times: 3
+	Query: "Turdus plumbeus" ; Times: 9
+	Query: "Leiothrix lutea" ; Times: 3
+	Query: "Chrysolophus pictus" ; Times: 3
+	Query: "Apus melba" ; Times: 7
+	Query: "Larus glaucoides" ; Times: 6
+	Query: "catalognumber:11798 institutioncode:FMNH" ; Times: 2
+	Query: "catalognumber:19583 institutioncode:FMNH" ; Times: 4
+	Query: "Phoenicopterus ruber" ; Times: 6
+	Query: "catalognumber:7347" ; Times: 1
+	Query: "5217 institutioncode:FMNH" ; Times: 2
+	Query: "catalognumber:9902 institutioncode:FMNH" ; Times: 2
+	Query: "Ammodramus savannarum floridanus" ; Times: 1
+	Query: "Fregata magnificens" ; Times: 3
+	Query: "Junco hyemalis stateprovince:&#34;California&#34; institutioncode:FMNH" ; Times: 1
+	Query: "Phalacrocorax urile" ; Times: 4
+	Query: "genus:Anodorhynchus" ; Times: 1
+	Query: "cardinalis collectioncode:Birds-Eggs institutioncode:FMNH hasmedia:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:brunneicapillus genus:Campylorhynchus institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:phoenicurus genus:Phoenicurus institutioncode:FMNH" ; Times: 1
+	Query: "genus:Colaptes class:aves stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Streptopelia orientalis" ; Times: 3
+	Query: "tyto collectioncode:Birds-Eggs institutioncode:FMNH hasmedia:1" ; Times: 1
+	Query: "Aix galericulata" ; Times: 2
+	Query: "catalognumber:19601 institutioncode:FMNH" ; Times: 2
+	Query: "turdus collectioncode:Birds-Eggs institutioncode:FMNH hasmedia:1" ; Times: 1
+	Query: "Zenaida collectioncode:Birds-Eggs institutioncode:FMNH hasmedia:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:nigricans genus:Sayornis institutioncode:FMNH" ; Times: 1
+	Query: "Serinus canaria" ; Times: 3
+	Query: "cathartes hasmedia:1" ; Times: 2
+	Query: "Catharus guttatus minnesota" ; Times: 2
+	Query: "Circus melanoleucos" ; Times: 4
+	Query: "FMNH 20749" ; Times: 1
+	Query: "Columba palumbus" ; Times: 3
+	Query: "Empidonax traillii egg cochise arizona" ; Times: 1
+	Query: "vntype:specimen specificepithet:corax genus:Corvus institutioncode:FMNH" ; Times: 1
+	Query: "oriolus oriolus India" ; Times: 1
+	Query: "vntype:specimen specificepithet:cinerascens genus:Myiarchus institutioncode:FMNH" ; Times: 1
+	Query: "Pluvialis apricaria" ; Times: 1
+	Query: "Geotrygon montana" ; Times: 3
+	Query: "Marmaronetta angustirostris" ; Times: 13
+	Query: "Todus todus" ; Times: 3
+	Query: "Lophura swinhoii" ; Times: 3
+	Query: "Enicurus maculatus India" ; Times: 1
+	Query: "Tachycineta collectioncode:Birds-Eggs institutioncode:FMNH hasmedia:1" ; Times: 1
+	Query: "Crossoptilon crossoptilon" ; Times: 3
+	Query: "Alectoris barbara" ; Times: 6
+	Query: "Rallus aquaticus" ; Times: 4
+	Query: "Phoenicurus ochruros" ; Times: 4
+	Query: "Anas penelope" ; Times: 11
+	Query: "Junco hyemalis Colorado Chaffee County egg" ; Times: 1
+	Query: "vntype:specimen specificepithet:merula genus:Turdus institutioncode:FMNH" ; Times: 1
+	Query: "Ardea cinerea" ; Times: 9
+	Query: "vntype:specimen specificepithet:cristata genus:Galerida institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:major genus:Parus country:&#34;Germany&#34; month &gt;= 3 month &lt;= 6" ; Times: 1
+	Query: "vntype:specimen specificepithet:melancholicus genus:Tyrannus institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:thalassina genus:Tachycineta institutioncode:FMNH" ; Times: 1
+	Query: "Alectoris rufa" ; Times: 6
+	Query: "FMNH 20744" ; Times: 2
+	Query: "Haliaeetus leucoryphus india" ; Times: 1
+	Query: "catalognumber:9994 institutioncode:FMNH" ; Times: 2
+	Query: "catalognumber:19595 institutioncode:FMNH" ; Times: 2
+	Query: "vntype:specimen specificepithet:nitens genus:Phainopepla institutioncode:FMNH" ; Times: 1
+	Query: "Rhea americana" ; Times: 3
+	Query: "vntype:specimen specificepithet:carduelis genus:Carduelis institutioncode:FMNH" ; Times: 1
+	Query: "Ardea purpurea" ; Times: 9
+	Query: "passer domesticus collectioncode:Birds-Eggs institutioncode:FMNH hasmedia:1" ; Times: 1
+	Query: "Columba oenas" ; Times: 3
+	Query: "junco alberta egg" ; Times: 1
+	Query: "tristis collectioncode:Birds-Eggs institutioncode:FMNH hasmedia:1" ; Times: 1
+	Query: "Picoides collectioncode:Birds-Eggs institutioncode:FMNH hasmedia:1" ; Times: 1
+	Query: "quiscalus collectioncode:Birds-Eggs institutioncode:FMNH hasmedia:1" ; Times: 1
+	Query: "Ixobrychus minutus" ; Times: 2
+	Query: "vntype:specimen specificepithet:iliacus genus:Turdus institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:cucullatus genus:Icterus institutioncode:FMNH" ; Times: 1
+	Query: "Apus unicolor" ; Times: 3
+	Query: "Aythya fuligula" ; Times: 6
+	Query: "gbifdatasetid:43e0bba3-9edb-4b00-b490-84924e55a222" ; Times: 17
+	Query: "cyanocitta collectioncode:Birds-Eggs institutioncode:FMNH hasmedia:1" ; Times: 1
+	Query: "institutioncode:FMNH hasmedia:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:alba genus:Motacilla institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:serripennis genus:Stelgidopteryx institutioncode:FMNH" ; Times: 1
+	Query: "Fratercula corniculata" ; Times: 6
+	Query: "Fulica atra" ; Times: 3
+	Query: "vntype:specimen specificepithet:pica genus:Pica institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:glandarius genus:Garrulus institutioncode:FMNH" ; Times: 1
+	Query: "Fregata aquila" ; Times: 3
+	Query: "Icterus auratus" ; Times: 1
+	Query: "Ciconia nigra" ; Times: 2
+	Query: "Pelecanus occidentalis Texas" ; Times: 1
+	Query: "Scolopax rusticola" ; Times: 5
+	Query: "vntype:specimen specificepithet:coelebs genus:Fringilla institutioncode:FMNH" ; Times: 1
+	Query: "Tadorna tadorna" ; Times: 13
+	Query: "Lophura nycthemera" ; Times: 3
+	Query: "Creagrus furcatus" ; Times: 6
+	Query: "Phylloscopus sibilatrix" ; Times: 7
+	Query: "vntype:specimen specificepithet:citrinella genus:Emberiza institutioncode:FMNH" ; Times: 1
+	Query: "Agelaius collectioncode:Birds-Eggs institutioncode:FMNH hasmedia:1" ; Times: 1
+	Query: "Turdus obscurus" ; Times: 9
+	Query: "Pelagodroma marina" ; Times: 4
+	Query: "Lophura leucomelanos" ; Times: 3
+	Query: "Pavo muticus" ; Times: 1
+	Query: "catalognumber:16039 institutioncode:FMNH" ; Times: 2
+	Query: "Amazilia yucatanensis" ; Times: 3
+	Query: "catalognumber:9788 institutioncode:FMNH" ; Times: 4
+	Query: "vntype:specimen specificepithet:oberholseri genus:Empidonax institutioncode:FMNH" ; Times: 1
+	Query: "Buteo hemilasius" ; Times: 6
+	Query: "catalognumber:11061 institutioncode:FMNH" ; Times: 2
+	Query: "specificepithet:bernicla genus:Branta stateprovince:&#34;Alaska&#34; year &gt;= 1917 year &lt;= 1917" ; Times: 2
+	Query: "Sula dactylatra" ; Times: 3
+	Query: "Z94997_06d.jpg" ; Times: 1
+	Query: "Vireo huttoni 1904" ; Times: 1
+	Query: "vntype:specimen specificepithet:sordidulus genus:Contopus institutioncode:FMNH" ; Times: 1
+	Query: "Phalacrocorax carbo" ; Times: 4
+	Query: "Eudocimus albus" ; Times: 4
+	Query: "Eudocimus ruber" ; Times: 3
+	Query: "Spheniscus demersus" ; Times: 4
+	Query: "vntype:specimen specificepithet:chloris genus:Carduelis institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:9787 institutioncode:FMNH" ; Times: 4
+	Query: "vntype:specimen specificepithet:melanocephalus genus:Pheucticus institutioncode:FMNH" ; Times: 1
+	Query: "netta rufina egg" ; Times: 1
+	Query: "Oenanthe isabellina" ; Times: 9
+	Query: "vntype:specimen specificepithet:flaveola genus:Coereba institutioncode:FMNH" ; Times: 1
+	Query: "Zonotrichia collectioncode:Birds-Eggs institutioncode:FMNH hasmedia:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:townsendi genus:Dendroica institutioncode:FMNH" ; Times: 1
+	Query: "Phylloscopus collybita" ; Times: 4
+	Query: "vntype:specimen specificepithet:regulus genus:Regulus institutioncode:FMNH" ; Times: 1
+	Query: "Buteo rufinus" ; Times: 4
+	Query: "Ficedula albicollis" ; Times: 9
+	Query: "corvus collectioncode:Birds-Eggs institutioncode:FMNH hasmedia:1" ; Times: 1
+	Query: "catalognumber:19602 institutioncode:FMNH" ; Times: 2
+	Query: "vntype:specimen specificepithet:plumbea genus:Polioptila institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:proregulus genus:Phylloscopus institutioncode:FMNH" ; Times: 1
+	Query: "locality:robinson county:&#34;chatham&#34;" ; Times: 2
+	Query: "Vanellus chilensis" ; Times: 6
+	Query: "vntype:specimen specificepithet:hypoleuca genus:Ficedula institutioncode:FMNH" ; Times: 1
+	Query: "Piranga hepatica" ; Times: 5
+	Query: "vntype:specimen specificepithet:bicolor genus:Tiaris institutioncode:FMNH" ; Times: 1
+	Query: "Syrmaticus ellioti" ; Times: 3
+	Query: "fmnh 8281" ; Times: 3
+	Query: "vntype:specimen specificepithet:montanus genus:Passer institutioncode:FMNH" ; Times: 1
+	Query: "Alcedo atthis" ; Times: 4
+	Query: "fMNH 19634" ; Times: 2
+	Query: "fMNH 19631" ; Times: 2
+	Query: "Pelecanus philippensis" ; Times: 2
+	Query: "vntype:specimen specificepithet:spinus genus:Carduelis institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:20256 institutioncode:FMNH" ; Times: 2
+	Query: "Phylloscopus proregulus" ; Times: 7
+	Query: "spinus collectioncode:Birds-Eggs institutioncode:FMNH hasmedia:1" ; Times: 1
+	Query: "agelaius collectioncode:Birds-Eggs institutioncode:FMNH hasmedia:1" ; Times: 1
+	Query: "Crossoptilon mantchuricum" ; Times: 3
+	Query: "catalognumber:3282 institutioncode:FMNH" ; Times: 1
+	Query: "calandrella erlangeri" ; Times: 2
+	Query: "Apus pallidus" ; Times: 3
+	Query: "vntype:specimen specificepithet:frugilegus genus:Corvus institutioncode:FMNH" ; Times: 1
+	Query: "Buteo brachyurus" ; Times: 4
+	Query: "specificepithet:peregrinus genus:Falco hastissue:1" ; Times: 1
+	Query: "Orkney egg" ; Times: 2
+	Query: "Buteo albonotatus" ; Times: 6
+	Query: "buteo collectioncode:Birds-Eggs institutioncode:FMNH hasmedia:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:mexicanus genus:Quiscalus institutioncode:FMNH" ; Times: 3
+	Query: "vntype:specimen specificepithet:sulphuratus genus:Pitangus institutioncode:FMNH" ; Times: 1
+	Query: "Tringa erythropus" ; Times: 6
+	Query: "Esacus recurvirostris" ; Times: 1
+	Query: "vntype:specimen specificepithet:verticalis genus:Tyrannus institutioncode:FMNH" ; Times: 1
+	Query: "Himatione sanguinea" ; Times: 2
+	Query: "Pelecanus crispus" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 3
+	Query: "Aramus guarauna" ; Times: 4
+	Query: "Larus vegae" ; Times: 3
+	Query: "Phylloscopus canariensis" ; Times: 4
+	Query: "Aquila rapax india" ; Times: 1
+	Query: "Puffinus gravis" ; Times: 3
+	Query: "Aythya ferina" ; Times: 11
+	Query: "vntype:specimen specificepithet:psaltria genus:Carduelis institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufus genus:Furnarius institutioncode:FMNH" ; Times: 1
+	Query: "Corvus macrorhynchos" ; Times: 9
+	Query: "vntype:specimen specificepithet:difficilis genus:Empidonax institutioncode:FMNH" ; Times: 1
+	Query: "Icterus collectioncode:Birds-Eggs institutioncode:FMNH hasmedia:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:tyrannulus genus:Myiarchus institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:paradisi genus:Terpsiphone institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:10831 institutioncode:FMNH" ; Times: 2
+	Query: "Ortalis canicollis" ; Times: 3
+	Query: "vntype:specimen specificepithet:brachydactyla genus:Certhia institutioncode:FMNH" ; Times: 1
+	Query: "Ciconia ciconia" ; Times: 4
+	Query: "vntype:specimen specificepithet:cristatus genus:Parus institutioncode:FMNH" ; Times: 1
+	Query: "institutioncode:fmnh" ; Times: 3
+	Query: "Steatornis caripensis" ; Times: 5
+	Query: "Haliaeetus albicilla" ; Times: 11
+	Query: "strigiformes collectioncode:Birds-Eggs institutioncode:FMNH hasmedia:1" ; Times: 1
+	Query: "Syrmaticus reevesii" ; Times: 3
+	Query: "vntype:specimen specificepithet:rubecula genus:Erithacus institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:10832 institutioncode:FMNH" ; Times: 2
+	Query: "catalognumber:15829 institutioncode:FMNH" ; Times: 2
+	Query: "Spheniscus humboldti" ; Times: 4
+	Query: "vntype:specimen specificepithet:similis genus:Myiozetetes institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:6129" ; Times: 1
+	Query: "Carpodacus erythrinus" ; Times: 8
+	Query: "Aegithalos caudatus" ; Times: 4
+	Query: "Recurvirostra avosetta" ; Times: 2
+	Query: "Netta rufina" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 39 (out of 1171 download events in this period)
+Total number of records downloaded: 864
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 34
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-18 ; Times: 1
+	Date: 2020-04-02 ; Times: 1
+	Date: 2020-04-23 ; Times: 1
+	Date: 2020-04-13 ; Times: 3
+	Date: 2020-04-11 ; Times: 1
+	Date: 2020-04-17 ; Times: 3
+	Date: 2020-04-16 ; Times: 1
+	Date: 2020-04-14 ; Times: 1
+	Date: 2020-04-30 ; Times: 5
+	Date: 2020-04-20 ; Times: 1
+	Date: 2020-04-07 ; Times: 3
+	Date: 2020-04-01 ; Times: 2
+	Date: 2020-04-24 ; Times: 1
+	Date: 2020-04-03 ; Times: 1
+	Date: 2020-04-28 ; Times: 1
+	Date: 2020-04-29 ; Times: 9
+	Date: 2020-04-09 ; Times: 1
+	Date: 2020-04-27 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Egretta rufescens Texas" ; Times: 1
+	Query: "Myiarchus crinitus Texas" ; Times: 1
+	Query: "Rallus elegans elegans" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "specificepithet:cardinalis genus:cardinalis institutioncode:FMNH" ; Times: 1
+	Query: "Rallus limicola" ; Times: 1
+	Query: "Amazilia yucatanensis Texas" ; Times: 1
+	Query: "Rallus aquaticus" ; Times: 1
+	Query: "Tyto alba pratincola" ; Times: 1
+	Query: "FMNH; Junco Hyemalis" ; Times: 1
+	Query: "Nycticorax nycticorax Texas" ; Times: 1
+	Query: "Gallinago gallinago faeroeensis" ; Times: 1
+	Query: "Aphelocoma californica" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "Rallus longirostris" ; Times: 1
+	Query: "Tyrannus melancholicus mexico" ; Times: 1
+	Query: "Rallus crepitans" ; Times: 1
+	Query: "Esacus recurvirostris" ; Times: 1
+	Query: "Pelecanus occidentalis Texas" ; Times: 2
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "Bubo virginianus texas" ; Times: 1
+	Query: "specificepithet:bernicla genus:Branta stateprovince:&#34;Alaska&#34; year &gt;= 1917 year &lt;= 1917" ; Times: 1
+	Query: "junco hyemalis institutioncode:FMNH" ; Times: 1
+	Query: "class:Aves country:&#34;Sudan&#34; continent:Africa" ; Times: 1
+	Query: "Plegadis chihi Texas" ; Times: 1
+	Query: "Gallinago gallinago" ; Times: 1
+	Query: "Passerina amoena" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "Egretta tricolor Texas" ; Times: 1
+	Query: "Rallus elegans" ; Times: 1
+	Query: "Platalea ajaja Texas" ; Times: 1
+	Query: "class:Aves hastissue:1" ; Times: 1
+	Query: "Molothrus ater obscurus" ; Times: 1
+	Query: "Coereba flaveola" ; Times: 1
+	Query: "Butorides virescens Texas" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Guyana&#34;" ; Times: 1
+	Query: "Aves Kashmir" ; Times: 1
+	Query: "Rallus obsoletus" ; Times: 1
+
+
+End of report.
