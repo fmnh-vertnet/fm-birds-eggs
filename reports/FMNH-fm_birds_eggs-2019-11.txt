@@ -1,0 +1,215 @@
+Report for Institution Code FMNH, Resource fm_birds_eggs
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 316
+Number of records retrieved in searches: 4200
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Turkey ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Canada ; Times: 13
+	Country: Mexico ; Times: 1
+	Country: Denmark ; Times: 7
+	Country: United States ; Times: 237
+	Country: United Kingdom ; Times: 1
+	Country: Chile ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Cyprus ; Times: 1
+	Country: Argentina ; Times: 45
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-19 ; Times: 8
+	Date: 2019-11-18 ; Times: 13
+	Date: 2019-11-15 ; Times: 11
+	Date: 2019-11-14 ; Times: 3
+	Date: 2019-11-17 ; Times: 3
+	Date: 2019-11-16 ; Times: 44
+	Date: 2019-11-11 ; Times: 41
+	Date: 2019-11-13 ; Times: 6
+	Date: 2019-11-12 ; Times: 7
+	Date: 2019-11-08 ; Times: 38
+	Date: 2019-11-09 ; Times: 27
+	Date: 2019-11-28 ; Times: 7
+	Date: 2019-11-20 ; Times: 2
+	Date: 2019-11-21 ; Times: 1
+	Date: 2019-11-22 ; Times: 2
+	Date: 2019-11-23 ; Times: 1
+	Date: 2019-11-24 ; Times: 1
+	Date: 2019-11-25 ; Times: 1
+	Date: 2019-11-26 ; Times: 3
+	Date: 2019-11-27 ; Times: 3
+	Date: 2019-11-06 ; Times: 21
+	Date: 2019-11-07 ; Times: 53
+	Date: 2019-11-04 ; Times: 3
+	Date: 2019-11-05 ; Times: 5
+	Date: 2019-11-02 ; Times: 1
+	Date: 2019-11-03 ; Times: 3
+	Date: 2019-11-01 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "santa clara county california petrochelidon egg" ; Times: 1
+	Query: "vntype:specimen specificepithet:sayaca class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Polioptila californica californica 2017" ; Times: 4
+	Query: "Polioptila californica californica 2015" ; Times: 4
+	Query: "Polioptila californica californica 2014" ; Times: 4
+	Query: "Vireo bellii pusillus" ; Times: 1
+	Query: "Polioptila californica californica 2019" ; Times: 4
+	Query: "Stercorarius parasiticus FMNH" ; Times: 1
+	Query: "FMNH 22347" ; Times: 2
+	Query: "Falco peregrinus FMNH year &gt; 1990" ; Times: 1
+	Query: "FMNH 22348" ; Times: 2
+	Query: "FMNH 22349" ; Times: 2
+	Query: "Psaltriparus 1900 egg" ; Times: 1
+	Query: "18819" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon" ; Times: 1
+	Query: "class:Aves continent:Europe institutioncode:FMNH" ; Times: 1
+	Query: "Cepphus grylle FMNH" ; Times: 1
+	Query: "Psaltriparus minimus Ventura County" ; Times: 1
+	Query: "Vireo bellii pusillus 2015" ; Times: 3
+	Query: "Vireo bellii pusillus 2017" ; Times: 3
+	Query: "Vireo bellii pusillus 2019" ; Times: 3
+	Query: "FMNH 22351" ; Times: 2
+	Query: "FMNH 22350" ; Times: 2
+	Query: "Pycnonotus xanthopygos" ; Times: 2
+	Query: "specificepithet:brachyurus genus:Buteo" ; Times: 1
+	Query: "institutioncode:FMNH" ; Times: 12
+	Query: "vntype:specimen specificepithet:palmarum genus:Thraupis class:Aves country:&#34;Brazil&#34; institutioncode:FMNH" ; Times: 1
+	Query: "Aphelocoma coerulescens 2017" ; Times: 10
+	Query: "Panurus biarmicus FMNH" ; Times: 1
+	Query: "empidonax traillii iowa" ; Times: 1
+	Query: "Strix occidentalis lucida 2019" ; Times: 3
+	Query: "FMNH 22252" ; Times: 1
+	Query: "Strix occidentalis lucida 2017" ; Times: 3
+	Query: "Strix occidentalis lucida 2015" ; Times: 3
+	Query: "Strix occidentalis lucida 2014" ; Times: 3
+	Query: "Charadrius melodus 1984" ; Times: 4
+	Query: "Oceanodroma homochroa AND Farallon NOT Burtis NOT Miller NOT Denburgh NOT Stager NOT Ray NOT Carriger NOT Fair NOT Anthony NOT HRT NOT Beeman NOT Taylor NOT Winthars NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 2
+	Query: "gbifdatasetid:43e0bba3-9edb-4b00-b490-84924e55a222" ; Times: 8
+	Query: "20532" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon AND 1896" ; Times: 2
+	Query: "19197" ; Times: 1
+	Query: "FMNH 20913" ; Times: 2
+	Query: "FMNH 20912" ; Times: 2
+	Query: "FMNH 20911" ; Times: 2
+	Query: "Eremophila alpestris strigata 2017" ; Times: 4
+	Query: "Eremophila alpestris strigata 2015" ; Times: 4
+	Query: "Eremophila alpestris strigata 2014" ; Times: 4
+	Query: "Eremophila alpestris strigata 2019" ; Times: 4
+	Query: "Oceanodroma homochroa AND Farallon NOT Denburgh NOT Stager NOT Ray NOT Carriger NOT Fair NOT Anthony NOT HRT NOT Beeman NOT Taylor NOT Winthars NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 1
+	Query: "Brachyramphus marmoratus 2014" ; Times: 5
+	Query: "18905" ; Times: 2
+	Query: "18906" ; Times: 1
+	Query: "specificepithet:celata stateprovince:&#34;washington&#34; month &gt;= 6 month &lt;= 8" ; Times: 2
+	Query: "specificepithet:americana genus:grus institutioncode:FMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Coccyzus americanus 1976" ; Times: 4
+	Query: "FMNH 22278" ; Times: 2
+	Query: "FMNH 22279" ; Times: 2
+	Query: "vntype:specimen institutioncode:FMNH" ; Times: 1
+	Query: "Aphelocoma coerulescens 2015" ; Times: 4
+	Query: "Aphelocoma coerulescens 2014" ; Times: 6
+	Query: "Aphelocoma coerulescens 2019" ; Times: 12
+	Query: "FMNH 22275" ; Times: 2
+	Query: "FMNH 22276" ; Times: 2
+	Query: "vntype:specimen specificepithet:sayaca class:Aves country:&#34;Brazil&#34; institutioncode:FMNH" ; Times: 1
+	Query: "Brachyramphus marmoratus 2019" ; Times: 5
+	Query: "Aramus guarauna FMNH year" ; Times: 1
+	Query: "Brachyramphus marmoratus 2015" ; Times: 5
+	Query: "Brachyramphus marmoratus 2017" ; Times: 5
+	Query: "Rissa tridactyla FMNH" ; Times: 1
+	Query: "FMNH 22314" ; Times: 1
+	Query: "FMNH 22312" ; Times: 4
+	Query: "FMNH 22269" ; Times: 2
+	Query: "FMNH 22267" ; Times: 2
+	Query: "FMNH 22265" ; Times: 2
+	Query: "FMNH 22264" ; Times: 2
+	Query: "FMNH 22263" ; Times: 2
+	Query: "FMNH 22260" ; Times: 3
+	Query: "Spizella atrogularis" ; Times: 1
+	Query: "Coccyzus americanus 2017" ; Times: 12
+	Query: "Coccyzus americanus 2014" ; Times: 4
+	Query: "Coccyzus americanus 2015" ; Times: 2
+	Query: "class:aves catalognumber:12069" ; Times: 1
+	Query: "Coccyzus americanus 2019" ; Times: 8
+	Query: "Turdoides squamiceps institutioncode:FMNH" ; Times: 1
+	Query: "16051" ; Times: 1
+	Query: "16053" ; Times: 1
+	Query: "specificepithet:femoralis genus:falco institutioncode:FMNH hasmedia:1" ; Times: 1
+	Query: "locality:ramsey stateprovince:&#34;wales&#34;" ; Times: 1
+	Query: "Psaltriparus minimus Washington Pierce County" ; Times: 1
+	Query: "class:aves catalognumber:12072" ; Times: 1
+	Query: "class:aves catalognumber:12071" ; Times: 3
+	Query: "class:aves catalognumber:12070" ; Times: 2
+	Query: "Mycteria americana 2019" ; Times: 4
+	Query: "Buteo brachyurus" ; Times: 1
+	Query: "Mycteria americana 2017" ; Times: 4
+	Query: "Mycteria americana 2015" ; Times: 4
+	Query: "Mycteria americana 2014" ; Times: 4
+	Query: "Charadrius melodus 2015" ; Times: 4
+	Query: "locality:delevan" ; Times: 1
+	Query: "Charadrius melodus 2019" ; Times: 4
+	Query: "turdoides squamiceps" ; Times: 2
+	Query: "Charadrius melodus 2017" ; Times: 4
+	Query: "19720" ; Times: 2
+	Query: "Charadrius melodus 2014" ; Times: 4
+	Query: "Oceanodroma homochroa AND Farallon NOT Stager NOT Ray NOT Carriger NOT Fair NOT Anthony NOT HRT NOT Beeman NOT Taylor NOT Winthars NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 1
+	Query: "FMNH 22282" ; Times: 2
+	Query: "Cairina moschata FMNH" ; Times: 1
+	Query: "Falco sparverius AND Guadalupe" ; Times: 1
+	Query: "Rissa tridactyla egg 1902" ; Times: 2
+	Query: "specificepithet:americana genus:Grus stateprovince:&#34;Manitoba&#34;" ; Times: 11
+	Query: "genus:Sylvia class:Aves country:&#34;Turkey&#34;" ; Times: 1
+	Query: "Spheniscus humboldti" ; Times: 1
+	Query: "Vireo bellii pusillus 2014" ; Times: 3
+	Query: "specificepithet:gilvus genus:vireo stateprovince:&#34;wyoming&#34;" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 1367 download events in this period)
+Total number of records downloaded: 329
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: United Kingdom ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: India ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-05 ; Times: 2
+	Date: 2019-11-24 ; Times: 2
+	Date: 2019-11-26 ; Times: 1
+	Date: 2019-11-27 ; Times: 1
+	Date: 2019-11-06 ; Times: 1
+	Date: 2019-11-07 ; Times: 1
+	Date: 2019-11-04 ; Times: 1
+	Date: 2019-11-16 ; Times: 1
+	Date: 2019-11-02 ; Times: 1
+	Date: 2019-11-01 ; Times: 1
+	Date: 2019-11-15 ; Times: 2
+	Date: 2019-11-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vireo vicinior" ; Times: 1
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:brachyurus genus:Buteo" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "family:Columbidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;California&#34; county: &#34;San Francisco&#34; OR &#34;San Mateo&#34; OR &#34;Santa Cruz&#34; OR &#34;Santa Clara&#34; OR &#34;Alameda&#34; OR &#34;Contra Costa&#34; OR &#34;Solano&#34; OR &#34;Napa&#34; OR &#34;Sonoma&#34; OR &#34;Marin&#34;" ; Times: 1
+	Query: "Numida meleagris vntype:specimen order:Galliformes basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "genus:certhia stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "vntype:specimen order:Passeriformes class:Aves stateprovince:&#34;Quebec&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "vermivora chrysoptera vntype:specimen" ; Times: 1
+	Query: "institutioncode:FMNH Passer domesticus" ; Times: 1
+	Query: "institutioncode:FMNH Passer" ; Times: 1
+	Query: "Aves Kashmir" ; Times: 1
+
+
+End of report.
