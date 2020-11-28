@@ -1,0 +1,159 @@
+Report for Institution Code FMNH, Resource fm_birds_eggs
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 93
+Number of records retrieved in searches: 433
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 30
+	Country: Italy ; Times: 1
+	Country: Peru ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 49
+	Country: Sweden ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: Ireland ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-18 ; Times: 4
+	Date: 2020-08-14 ; Times: 1
+	Date: 2020-08-19 ; Times: 1
+	Date: 2020-08-31 ; Times: 1
+	Date: 2020-08-10 ; Times: 6
+	Date: 2020-08-17 ; Times: 1
+	Date: 2020-08-16 ; Times: 1
+	Date: 2020-08-03 ; Times: 1
+	Date: 2020-08-13 ; Times: 4
+	Date: 2020-08-12 ; Times: 2
+	Date: 2020-08-11 ; Times: 7
+	Date: 2020-08-07 ; Times: 6
+	Date: 2020-08-27 ; Times: 1
+	Date: 2020-08-24 ; Times: 2
+	Date: 2020-08-25 ; Times: 2
+	Date: 2020-08-22 ; Times: 1
+	Date: 2020-08-23 ; Times: 2
+	Date: 2020-08-20 ; Times: 3
+	Date: 2020-08-21 ; Times: 47
+
+List of queries that retrieved data from the resource: 
+	Query: "Catreus wallichii" ; Times: 1
+	Query: "specificepithet:flavescens genus:Boissonneaua country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "specificepithet:vestitus genus:Eriocnemis" ; Times: 1
+	Query: "Turdus plumbeus" ; Times: 1
+	Query: "Columba oenas" ; Times: 1
+	Query: "Chrysolophus pictus" ; Times: 1
+	Query: "1890 Illinois Fox Lake" ; Times: 1
+	Query: "vntype:specimen class:Aves institutioncode:FMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Panurus biarmicus" ; Times: 1
+	Query: "Syrmaticus ellioti" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "19723 FMNH" ; Times: 2
+	Query: "genus:megapodius order:galliformes institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:senator genus:Lanius country:&#34;Spain&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "gbifdatasetid:43e0bba3-9edb-4b00-b490-84924e55a222" ; Times: 1
+	Query: "Cecropis daurica" ; Times: 1
+	Query: "Illinois FOx Lake 1890" ; Times: 1
+	Query: "institutioncode:FMNH catalognumber:56804 OR 65812 OR 11335 OR 11336 class:Aves" ; Times: 2
+	Query: "Fratercula corniculata" ; Times: 1
+	Query: "Corvus corone" ; Times: 1
+	Query: "Phylloscopus proregulus" ; Times: 1
+	Query: "Streptopelia orientalis" ; Times: 1
+	Query: "FMNH-10161" ; Times: 1
+	Query: "Turdus viscivorus bonapartei" ; Times: 1
+	Query: "Calandrella cinerea" ; Times: 1
+	Query: "anthus berthelotii vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "FMNH 19854" ; Times: 2
+	Query: "class:aves stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34; institutioncode:FMNH" ; Times: 2
+	Query: "Paradisaea rudolphi" ; Times: 1
+	Query: "locality:kalevala stateprovince:&#34;manitoba&#34;" ; Times: 5
+	Query: "Chrysolophus amherstiae" ; Times: 1
+	Query: "Carpodacus erythrinus" ; Times: 1
+	Query: "Russia aves year &gt;= 1901 year &lt;= 1901 month &gt;= 5 month &lt;= 6" ; Times: 2
+	Query: "Sylvia curruca" ; Times: 1
+	Query: "Tadorna tadorna" ; Times: 1
+	Query: "Columba palumbus" ; Times: 1
+	Query: "Lophura nycthemera" ; Times: 1
+	Query: "Creagrus furcatus" ; Times: 1
+	Query: "Phalacrocorax urile" ; Times: 1
+	Query: "county:&#34;c&#34;" ; Times: 1
+	Query: "Vanellus chilensis" ; Times: 1
+	Query: "Turdus obscurus" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "Lophura leucomelanos" ; Times: 1
+	Query: "Marmaronetta angustirostris" ; Times: 1
+	Query: "catalognumber:448 institutioncode:FMNH" ; Times: 2
+	Query: "Phylloscopus canariensis" ; Times: 1
+	Query: "catalognumber:5397 institutioncode:FMNH" ; Times: 1
+	Query: "Lophura swinhoii" ; Times: 1
+	Query: "Corvus macrorhynchos" ; Times: 1
+	Query: "Corvus corone 100" ; Times: 1
+	Query: "Aethia cristatella" ; Times: 1
+	Query: "14370" ; Times: 1
+	Query: "Rallus aquaticus" ; Times: 1
+	Query: "FMNH 375" ; Times: 2
+	Query: "Corvus cryptoleucus" ; Times: 1
+	Query: "Fulica atra" ; Times: 1
+	Query: "Phalacrocorax carbo" ; Times: 1
+	Query: "Eudocimus albus" ; Times: 1
+	Query: "Karasunda" ; Times: 2
+	Query: "institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen genus:Rhea class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "institutioncode:FMNH catalognumber:56804 OR 65812 OR 11335 OR 11336" ; Times: 1
+	Query: "egg vntype:specimen specificepithet:coerulescens genus:aphelocoma basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "20858 aves" ; Times: 1
+	Query: "Piranga hepatica" ; Times: 1
+	Query: "Phylloscopus sibilatrix" ; Times: 1
+	Query: "Syrmaticus reevesii" ; Times: 1
+	Query: "Larus glaucoides" ; Times: 1
+	Query: "institutioncode:fmnh" ; Times: 2
+	Query: "Crossoptilon mantchuricum" ; Times: 1
+	Query: "Crossoptilon crossoptilon" ; Times: 1
+	Query: "&#34;Fox Lake&#34; Illinois 1890" ; Times: 1
+	Query: "Phylloscopus collybita" ; Times: 1
+	Query: "specificepithet:vestitus genus:Eriocnemis country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "Aegithalos caudatus" ; Times: 1
+	Query: "Ciconia ciconia" ; Times: 1
+	Query: "institutioncode:FMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "bird eggs nebraska" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 756 download events in this period)
+Total number of records downloaded: 279
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 1
+	Country: France ; Times: 1
+	Country: Puerto Rico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-16 ; Times: 1
+	Date: 2020-08-29 ; Times: 2
+	Date: 2020-08-26 ; Times: 1
+	Date: 2020-08-27 ; Times: 1
+	Date: 2020-08-24 ; Times: 2
+	Date: 2020-08-30 ; Times: 1
+	Date: 2020-08-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "alauda" ; Times: 1
+	Query: "genus:Tyrannus institutioncode:FMNH" ; Times: 1
+	Query: "county:&#34;Clallam&#34;" ; Times: 1
+	Query: "vntype:specimen class:Aves hastissue:1" ; Times: 1
+	Query: "specificepithet:impennis genus:pinguinus" ; Times: 1
+	Query: "country:&#34;Puerto Rico&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;South Africa&#34; continent:Africa" ; Times: 1
+	Query: "vntype:specimen genus:Cardinalis stateprovince:&#34;Virginia&#34;" ; Times: 1
+
+
+End of report.
