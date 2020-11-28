@@ -1,0 +1,119 @@
+Report for Institution Code FMNH, Resource fm_birds_eggs
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 64
+Number of records retrieved in searches: 385
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 45
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 14
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-14 ; Times: 8
+	Date: 2020-06-08 ; Times: 1
+	Date: 2020-06-06 ; Times: 1
+	Date: 2020-06-07 ; Times: 1
+	Date: 2020-06-04 ; Times: 2
+	Date: 2020-06-05 ; Times: 1
+	Date: 2020-06-02 ; Times: 23
+	Date: 2020-06-03 ; Times: 2
+	Date: 2020-06-01 ; Times: 1
+	Date: 2020-06-15 ; Times: 2
+	Date: 2020-06-29 ; Times: 2
+	Date: 2020-06-10 ; Times: 11
+	Date: 2020-06-11 ; Times: 6
+	Date: 2020-06-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "fmnh 18611" ; Times: 1
+	Query: "FMNH 18571" ; Times: 2
+	Query: "fmnh 18617" ; Times: 2
+	Query: "fmnh 18614" ; Times: 1
+	Query: "fmnh 18619" ; Times: 2
+	Query: "genus:Pitangus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Washington&#34; OR &#34;Oregon&#34; OR &#34;Idaho&#34; OR &#34;Nevada&#34; OR &#34;Utah&#34; OR &#34;New Mexico&#34; OR &#34;Arizona&#34; OR &#34;Colorado&#34; OR &#34;Wyoming&#34; institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 21838" ; Times: 1
+	Query: "specificepithet:carolinus genus:Euphagus stateprovince:&#34;Nova Scotia&#34;" ; Times: 1
+	Query: "FMNH 21837" ; Times: 1
+	Query: "gbifdatasetid:43e0bba3-9edb-4b00-b490-84924e55a222" ; Times: 2
+	Query: "acrocephalus arundinaceus" ; Times: 1
+	Query: "FMNH 21843" ; Times: 1
+	Query: "Cairina moschata" ; Times: 3
+	Query: "specificepithet:swinhoii order:galliformes" ; Times: 1
+	Query: "specificepithet:rubra genus:Piranga county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Tadorna tadorna" ; Times: 5
+	Query: "fmnh 18572" ; Times: 2
+	Query: "specificepithet:ciris genus:Passerina county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "fmnh 18620" ; Times: 1
+	Query: "fmnh 18621" ; Times: 1
+	Query: "FMNH 9808" ; Times: 1
+	Query: "FMNH 21844" ; Times: 1
+	Query: "FMNH 21845" ; Times: 1
+	Query: "FMNH 21842" ; Times: 1
+	Query: "catalognumber:19611" ; Times: 1
+	Query: "FMNH 21840" ; Times: 1
+	Query: "FMNH 21841" ; Times: 1
+	Query: "Anas penelope" ; Times: 6
+	Query: "institutioncode:FMNH" ; Times: 2
+	Query: "vanellus gregarius" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo county:&#34;san diego&#34;" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 12
+	Query: "Apus unicolor" ; Times: 1
+	Query: "specificepithet:canicollis order:galliformes" ; Times: 1
+	Query: "specificepithet:heyi order:galliformes" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 474 download events in this period)
+Total number of records downloaded: 693
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Unknown ; Times: 1
+	Country: Brazil ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-06 ; Times: 1
+	Date: 2020-06-04 ; Times: 3
+	Date: 2020-06-02 ; Times: 5
+	Date: 2020-06-10 ; Times: 18
+	Date: 2020-06-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:heyi order:galliformes" ; Times: 1
+	Query: "specificepithet:violacea genus:Nyctanassa" ; Times: 1
+	Query: "Dryocopus pileatus" ; Times: 1
+	Query: "specificepithet:fuscescens genus:Catharus" ; Times: 1
+	Query: "vntype:specimen specificepithet:palustris genus:Cistothorus institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:rubra genus:Piranga" ; Times: 1
+	Query: "Tyrannus savana" ; Times: 1
+	Query: "vntype:specimen specificepithet:calendula genus:Regulus institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:swinhoii order:galliformes" ; Times: 1
+	Query: "vntype:specimen specificepithet:vulgaris genus:Sturnus institutioncode:FMNH" ; Times: 1
+	Query: "Catharus fuscescens" ; Times: 1
+	Query: "Arenaria interpres" ; Times: 1
+	Query: "Pandion haliaetus" ; Times: 1
+	Query: "Nyctanassa violacea" ; Times: 1
+	Query: "specificepithet:forficatus genus:Elanoides" ; Times: 1
+	Query: "vntype:specimen specificepithet:brachyrhynchos genus:Corvus institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:savana genus:Tyrannus" ; Times: 1
+	Query: "specificepithet:chinensis genus:excalfactoria" ; Times: 1
+	Query: "specificepithet:interpres genus:Arenaria" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo county:&#34;san diego&#34;" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (hypoleucus OR hypoleuca OR scrippsi OR Synthliboramphus OR Brachyramphus OR murrelet) AND (NOT craveri NOT Coronado)" ; Times: 1
+	Query: "Elanoides forficatus" ; Times: 2
+	Query: "specificepithet:canicollis order:galliformes" ; Times: 2
+	Query: "raccoon" ; Times: 1
+	Query: "Piranga rubra" ; Times: 1
+
+
+End of report.
