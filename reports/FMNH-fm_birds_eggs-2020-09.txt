@@ -1,0 +1,196 @@
+Report for Institution Code FMNH, Resource fm_birds_eggs
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 99
+Number of records retrieved in searches: 1596
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 21
+	Country: Turkey ; Times: 1
+	Country: Netherlands ; Times: 4
+	Country: Ireland ; Times: 1
+	Country: Canada ; Times: 1
+	Country: United Arab Emirates ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: India ; Times: 4
+	Country: France ; Times: 1
+	Country: United States ; Times: 51
+	Country: Australia ; Times: 1
+	Country: China ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: Colombia ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-09 ; Times: 4
+	Date: 2020-09-08 ; Times: 2
+	Date: 2020-09-03 ; Times: 4
+	Date: 2020-09-02 ; Times: 7
+	Date: 2020-09-01 ; Times: 3
+	Date: 2020-09-07 ; Times: 3
+	Date: 2020-09-04 ; Times: 1
+	Date: 2020-09-21 ; Times: 2
+	Date: 2020-09-20 ; Times: 1
+	Date: 2020-09-22 ; Times: 1
+	Date: 2020-09-25 ; Times: 2
+	Date: 2020-09-24 ; Times: 17
+	Date: 2020-09-26 ; Times: 2
+	Date: 2020-09-29 ; Times: 3
+	Date: 2020-09-28 ; Times: 2
+	Date: 2020-09-14 ; Times: 4
+	Date: 2020-09-15 ; Times: 3
+	Date: 2020-09-30 ; Times: 5
+	Date: 2020-09-17 ; Times: 6
+	Date: 2020-09-10 ; Times: 7
+	Date: 2020-09-11 ; Times: 3
+	Date: 2020-09-12 ; Times: 1
+	Date: 2020-09-13 ; Times: 5
+	Date: 2020-09-18 ; Times: 9
+	Date: 2020-09-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "cariama cristata fmnh" ; Times: 2
+	Query: "specificepithet:melanura genus:Polioptila county:&#34;los angeles&#34;" ; Times: 1
+	Query: "FMNH birds santander" ; Times: 1
+	Query: "egg vntype:specimen specificepithet:migratorius genus:Turdus stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2020 month &gt;= 1 month &lt;= 12" ; Times: 3
+	Query: "merops viridis india" ; Times: 1
+	Query: "specificepithet:melanura genus:Polioptila institutioncode:FMNH" ; Times: 1
+	Query: "egg specificepithet:migratorius genus:Turdus county:&#34;cook&#34; stateprovince:&#34;illinois&#34; year &gt;= 1920 year &lt;= 2020 month &gt;= 1 month &lt;= 12" ; Times: 2
+	Query: "catalognumber:19583 institutioncode:FMNH" ; Times: 2
+	Query: "specificepithet:gilvus genus:vireo class:aves stateprovince:&#34;Wyoming&#34; month &gt;= 6 month &lt;= 7 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:aura genus:cathartes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:18076" ; Times: 1
+	Query: "vntype:specimen specificepithet:maculosa genus:Nothura class:Aves country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:melanura genus:Polioptila locality:Toluca institutioncode:FMNH" ; Times: 1
+	Query: "gbifdatasetid:43e0bba3-9edb-4b00-b490-84924e55a222" ; Times: 14
+	Query: "country:&#34;Sulawesi&#34;" ; Times: 1
+	Query: "genus:Pinicola class:Aves year &gt;= 1896 year &lt;= 1896 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "APUS pallidus" ; Times: 1
+	Query: "Pterocles orientalis vntype:specimen" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; AND (NOT Ptychoramphus NOT Los Coronados)" ; Times: 1
+	Query: "FMNH birds Santander" ; Times: 1
+	Query: "Tinamidae vntype:specimen (Eudromia elegans ) year &gt;= 1901" ; Times: 1
+	Query: "specificepithet:asiatica genus:Zenaida stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:boraquira genus:Nothura class:Aves country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:Limnothlypis" ; Times: 2
+	Query: "genus:Steatornis country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "FMNH birds cucuta" ; Times: 1
+	Query: "anthus berthelotii institutioncode:FMNH" ; Times: 1
+	Query: "Corvus monedula OR Corvus dauuricus" ; Times: 4
+	Query: "family:Alcidae country:&#34;Mexico&#34; AND (NOT Ptychoramphus AND NOT Los Coronados)" ; Times: 1
+	Query: "pterocles orientalis vntype:specimen" ; Times: 1
+	Query: "vntype:specimen genus:Rhynchotus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Ammodramus stateprovince:&#34;California&#34; institutioncode:FMNH" ; Times: 1
+	Query: "FMNH birds Norte de Santander" ; Times: 2
+	Query: "FMNH 20059" ; Times: 1
+	Query: "genus:Cathartes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Steatornis" ; Times: 1
+	Query: "egg specificepithet:migratorius genus:turdus country:&#34;canada&#34; year &gt;= 1920 year &lt;= 2020 month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "class:Aves institutioncode:FMNH hastissue:1" ; Times: 1
+	Query: "egg specificepithet:migratorius genus:Turdus stateprovince:&#34;Michigan&#34;" ; Times: 2
+	Query: "Tinamidae vntype:specimen (Eudromia elegans) year &gt;= 1901" ; Times: 1
+	Query: "egg specificepithet:migratorius genus:Turdus county:&#34;cook&#34; stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Nothoprocta class:Aves country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:vulgaris genus:sturnus year &gt;= 1800 year &lt;= 1900" ; Times: 1
+	Query: "specificepithet:gilvus genus:vireo class:aves stateprovince:&#34;Wyoming&#34; year &gt;= 1800 year &lt;= 1999 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:elegans genus:eudromia family:tinamidae year &gt;= 1901" ; Times: 1
+	Query: "vntype:specimen specificepithet:undulatus genus:Crypturellus class:Aves country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "catalognumber:17167" ; Times: 1
+	Query: "egg specificepithet:cardinalis genus:cardinalis stateprovince:&#34;illinois&#34; month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "aves year &gt;= 2006 year &lt;= 2013 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:montezumae genus:Cyrtonyx stateprovince:&#34;texas&#34; year &gt;= 1849 year &lt;= 1950" ; Times: 1
+	Query: "Pterocles orientalis" ; Times: 2
+	Query: "specificepithet:undulatus genus:Crypturellus class:Aves country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (lagopus) AND (NOT buteo NOT Alopex NOT Vulpes NOT alleni)" ; Times: 1
+	Query: "specificepithet:maculosa genus:Nothura class:AVes country:&#34;pARAGUAY&#34;" ; Times: 2
+	Query: "genus:eudromia class:AVes country:&#34;pARAGUAY&#34;" ; Times: 1
+	Query: "10815 aves" ; Times: 1
+	Query: "class:Aves country:&#34;Tanganyika&#34; continent:Africa" ; Times: 1
+	Query: "egg vntype:specimen specificepithet:migratorius genus:Turdus country:&#34;canada&#34; year &gt;= 1920 year &lt;= 2020 month &gt;= 1 month &lt;= 12" ; Times: 2
+	Query: "specificepithet:aura genus:Cathartes class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "APUS unicolor" ; Times: 1
+	Query: "cinclus cinclus turkey" ; Times: 1
+	Query: "class:Aves institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen genus:Rhea class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:20106 institutioncode:FMNH" ; Times: 2
+	Query: "oriolus kundoo" ; Times: 1
+	Query: "vntype:specimen genus:Rhynchotus class:Aves country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "genus:Rhea class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufescens genus:Rhynchotus class:Aves country:&#34;Paraguay&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 37 (out of 976 download events in this period)
+Total number of records downloaded: 1578
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 8
+	Country: Unknown ; Times: 6
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 1
+	Date: 2020-09-15 ; Times: 1
+	Date: 2020-09-30 ; Times: 1
+	Date: 2020-09-22 ; Times: 1
+	Date: 2020-09-10 ; Times: 3
+	Date: 2020-09-11 ; Times: 2
+	Date: 2020-09-13 ; Times: 8
+	Date: 2020-09-28 ; Times: 2
+	Date: 2020-09-26 ; Times: 1
+	Date: 2020-09-09 ; Times: 2
+	Date: 2020-09-08 ; Times: 1
+	Date: 2020-09-02 ; Times: 2
+	Date: 2020-09-03 ; Times: 2
+	Date: 2020-09-25 ; Times: 3
+	Date: 2020-09-04 ; Times: 5
+	Date: 2020-09-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen family:Phasianidae continent:Africa" ; Times: 1
+	Query: "specificepithet:melanura genus:Polioptila county:&#34;los angeles&#34;" ; Times: 1
+	Query: "genus:Picoides specificepithet:.*" ; Times: 1
+	Query: "APUS apus" ; Times: 1
+	Query: "vntype:specimen specificepithet:lomvia genus:Uria country:&#34;Canada&#34;" ; Times: 1
+	Query: "genus:Passerina" ; Times: 1
+	Query: "(Synthliboramphus)" ; Times: 1
+	Query: "hirundo rustica" ; Times: 1
+	Query: "Bucephala" ; Times: 1
+	Query: "sturnus vulgaris" ; Times: 1
+	Query: "class:Aves country:&#34;Tanganyika&#34; continent:Africa" ; Times: 1
+	Query: "APUS pallidus" ; Times: 1
+	Query: "Tinamidae vntype:specimen (Eudromia elegans ) year &gt;= 1901" ; Times: 1
+	Query: "(Brachyramphus)" ; Times: 1
+	Query: "genus:Calypte" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "Corvus monedula OR Corvus dauuricus" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (Brachyramphus) AND (NOT Ptychoramphus)" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina month &gt;= 5 month &lt;= 8" ; Times: 1
+	Query: "Tympanuchus" ; Times: 1
+	Query: "Sialia" ; Times: 1
+	Query: "Catharus" ; Times: 1
+	Query: "specificepithet:marmoratus genus:brachyramphus" ; Times: 1
+	Query: "egg specificepithet:migratorius genus:Turdus stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "vntype:specimen order:Galliformes continent:Africa" ; Times: 1
+	Query: "Gavia immer OR adamsii" ; Times: 1
+	Query: "genus:Eremophila" ; Times: 1
+	Query: "order:Galliformes" ; Times: 1
+	Query: "sitta pygmaea OR sitta pusilla" ; Times: 1
+	Query: "ostrich" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (lagopus) AND (NOT buteo NOT Alopex NOT Vulpes)" ; Times: 3
+	Query: "APUS unicolor" ; Times: 1
+	Query: "Haematopus palliatus OR Haematopus bachmani" ; Times: 1
+	Query: "Passer domesticus" ; Times: 1
+	Query: "Pterocles orientalis vntype:specimen" ; Times: 1
+
+
+End of report.
