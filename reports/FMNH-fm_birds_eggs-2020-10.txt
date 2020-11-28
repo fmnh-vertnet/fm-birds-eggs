@@ -1,0 +1,193 @@
+Report for Institution Code FMNH, Resource fm_birds_eggs
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 120
+Number of records retrieved in searches: 1520
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 15
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 6
+	Country: United Kingdom ; Times: 32
+	Country: Austria ; Times: 2
+	Country: Argentina ; Times: 4
+	Country: United States ; Times: 48
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 1
+	Date: 2020-10-18 ; Times: 1
+	Date: 2020-10-19 ; Times: 3
+	Date: 2020-10-08 ; Times: 1
+	Date: 2020-10-12 ; Times: 2
+	Date: 2020-10-13 ; Times: 54
+	Date: 2020-10-30 ; Times: 5
+	Date: 2020-10-17 ; Times: 1
+	Date: 2020-10-20 ; Times: 3
+	Date: 2020-10-03 ; Times: 2
+	Date: 2020-10-23 ; Times: 11
+	Date: 2020-10-22 ; Times: 6
+	Date: 2020-10-21 ; Times: 1
+	Date: 2020-10-02 ; Times: 2
+	Date: 2020-10-27 ; Times: 4
+	Date: 2020-10-26 ; Times: 2
+	Date: 2020-10-25 ; Times: 1
+	Date: 2020-10-01 ; Times: 2
+	Date: 2020-10-29 ; Times: 3
+	Date: 2020-10-28 ; Times: 6
+	Date: 2020-10-05 ; Times: 4
+	Date: 2020-10-04 ; Times: 1
+	Date: 2020-10-07 ; Times: 3
+	Date: 2020-10-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "alaska 1915 egg" ; Times: 1
+	Query: "Brachyramphus brevirostris" ; Times: 1
+	Query: "Anser fabalis" ; Times: 1
+	Query: "county:&#34;angola&#34;" ; Times: 1
+	Query: "Turdus plumbeus" ; Times: 1
+	Query: "scientificname:Tadorna ferruginea" ; Times: 1
+	Query: "catalognumber:16891" ; Times: 1
+	Query: "Vanellus chilensis" ; Times: 1
+	Query: "Larus glaucoides" ; Times: 1
+	Query: "catalognumber:11798 institutioncode:FMNH" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "genus:lymnocryptes finland" ; Times: 1
+	Query: "Thalasseus elegans" ; Times: 1
+	Query: "scientificname:Crax rubra" ; Times: 1
+	Query: "Anas rubripes (Ontario )" ; Times: 2
+	Query: "catalognumber:20347" ; Times: 1
+	Query: "Cygnus columbianus" ; Times: 1
+	Query: "Rallus elegans vntype:specimen stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "gbifdatasetid:43e0bba3-9edb-4b00-b490-84924e55a222" ; Times: 2
+	Query: "catalognumber:19887" ; Times: 1
+	Query: "Phalacrocorax urile" ; Times: 1
+	Query: "Cygnus olor" ; Times: 1
+	Query: "Rallus crepitans stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "egg vntype:specimen specificepithet:migratorius genus:turdus country:&#34;USA&#34; year &gt;= 1920 year &lt;= 2020 month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "65439c14-6e3c-4e91-bbf6-9bc9ae07d271" ; Times: 2
+	Query: "Fratercula corniculata" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "Franklin 1888" ; Times: 1
+	Query: "catalognumber:1982 institutioncode:FMNH" ; Times: 1
+	Query: "Eudocimus albus" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 1
+	Query: "genus:Rynchops basisofrecord:PreservedSpecimen" ; Times: 6
+	Query: "apus unicolor" ; Times: 2
+	Query: "Sterna dougallii" ; Times: 1
+	Query: "vntype:specimen institutioncode:FMNH hastissue:1" ; Times: 2
+	Query: "vntype:specimen genus:Ortalis class:Aves country:&#34;paraguay&#34;" ; Times: 1
+	Query: "Circaetus gallicus" ; Times: 1
+	Query: "scientificname:Aix sponsa" ; Times: 16
+	Query: "Tadorna tadorna" ; Times: 1
+	Query: "Thalasseus acuflavidus" ; Times: 1
+	Query: "field museum 11874" ; Times: 2
+	Query: "Creagrus furcatus" ; Times: 1
+	Query: "genus:Ortalis class:Aves country:&#34;paraguay&#34;" ; Times: 1
+	Query: "Buteo albicaudatus" ; Times: 1
+	Query: "FMNH 8936" ; Times: 2
+	Query: "institutioncode:FMNH hastissue:1" ; Times: 1
+	Query: "Turdus obscurus" ; Times: 1
+	Query: "Marmaronetta angustirostris" ; Times: 1
+	Query: "scientificname:Crax alector" ; Times: 1
+	Query: "FMNH 18993" ; Times: 1
+	Query: "egg vntype:specimen specificepithet:migratorius genus:Turdus country:&#34;USA&#34; year &gt;= 1920 year &lt;= 2020 month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "Tympanuchus cupido stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "genus:Rynchops stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:herodias genus:ardea class:aves county:&#34;monroe&#34; stateprovince:&#34;florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Rynchops" ; Times: 3
+	Query: "specificepithet:hyacinthinus genus:Anodorhynchus" ; Times: 2
+	Query: "Phalacrocorax carbo" ; Times: 1
+	Query: "e5ee7b91-dcfa-43e7-8f75-ee5ee44733f0" ; Times: 1
+	Query: "Hollands" ; Times: 2
+	Query: "scientificname:Accipiter nisus" ; Times: 6
+	Query: "class:aves county:&#34;angola&#34;" ; Times: 1
+	Query: "Haematopus palliatus" ; Times: 1
+	Query: "Rallus crepitans vntype:specimen stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Thalasseus sandvicensis" ; Times: 1
+	Query: "Oceanodroma macrodactyla" ; Times: 1
+	Query: "institutioncode:FMNH" ; Times: 1
+	Query: "Cygnus atratus" ; Times: 1
+	Query: "scientificname:Ortalis canicollis" ; Times: 1
+	Query: "Circus melanoleucos" ; Times: 1
+	Query: "vntype:specimen specificepithet:minor genus:Chordeiles stateprovince:&#34;Louisiana&#34;" ; Times: 2
+	Query: "institutioncode:fmnh" ; Times: 3
+	Query: "scientificname:Ortalis vetula" ; Times: 1
+	Query: "aitkin aves minnesota" ; Times: 2
+	Query: "Rallus elegans stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "vntype:specimen institutioncode:FMNH" ; Times: 2
+	Query: "Aethia cristatella" ; Times: 1
+	Query: "Ciconia ciconia" ; Times: 1
+	Query: "Recurvirostra avosetta" ; Times: 1
+	Query: "12803" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 32 (out of 1521 download events in this period)
+Total number of records downloaded: 767
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: United Kingdom ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: India ; Times: 1
+	Country: United States ; Times: 16
+	Country: Kenya ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 1
+	Date: 2020-10-23 ; Times: 3
+	Date: 2020-10-21 ; Times: 2
+	Date: 2020-10-20 ; Times: 7
+	Date: 2020-10-26 ; Times: 1
+	Date: 2020-10-24 ; Times: 2
+	Date: 2020-10-12 ; Times: 1
+	Date: 2020-10-13 ; Times: 1
+	Date: 2020-10-29 ; Times: 1
+	Date: 2020-10-28 ; Times: 3
+	Date: 2020-10-05 ; Times: 1
+	Date: 2020-10-31 ; Times: 2
+	Date: 2020-10-07 ; Times: 2
+	Date: 2020-10-15 ; Times: 2
+	Date: 2020-10-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "aves paraguay" ; Times: 1
+	Query: "Tympanuchus cupido stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "genus:Melanerpes aurifrons country:&#34;México&#34;" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "Rallus elegans vntype:specimen stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "genus:Melanerpes country:&#34;México&#34;" ; Times: 2
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "prinia gracilis" ; Times: 1
+	Query: "class:Aves country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "specificepithet:albifrons genus:Sterna" ; Times: 1
+	Query: "Dromaiidae" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "Egretta garzetta" ; Times: 1
+	Query: "vntype:specimen specificepithet:minor genus:fregata" ; Times: 1
+	Query: "aves bolivia" ; Times: 1
+	Query: "aitkin aves minnesota" ; Times: 1
+	Query: "vntype:specimen family:Bucerotidae" ; Times: 1
+	Query: "genus:Rynchops stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "daphne" ; Times: 1
+	Query: "specificepithet:hyacinthinus genus:Anodorhynchus" ; Times: 1
+	Query: "class:Aves country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen order:Coraciiformes" ; Times: 1
+	Query: "colinus virginianus institutioncode:FMNH" ; Times: 2
+	Query: "vntype:specimen specificepithet:coruscans genus:Colibri" ; Times: 1
+	Query: "vntype:specimen specificepithet:spinosa genus:Jacana" ; Times: 1
+	Query: "genus:Rallus stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Carpodacus mexicanus amplus" ; Times: 1
+	Query: "aves brazil" ; Times: 1
+
+
+End of report.
